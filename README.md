@@ -1,6 +1,14 @@
 # eshoe-shop
 eCommerce project done for academic classes
 
+## How to run with Docker Compose
+1. Run install-prestashop.bat script.
+2. It will start docker containers in separate cmd window
+3. Wait 60 seconds
+4. Database dump will be automatically loaded
+5. You are ready to use prestashop `http://localhost:8888`
+
+
 ## How to run
 1. Clone project
 2. Pull latest MySQL docker image
@@ -35,4 +43,9 @@ eCommerce project done for academic classes
 ## Dump Prestashop database to file
 ```
 docker exec some-mysql /usr/bin/mysqldump -u root --password=admin prestashop > dbdump.sql
+```
+
+## Restore Prestashop database from file
+```
+docker exec -i eshoe-shop_some-mysql mysql -uroot -padmin prestashop < ./db/dbdump.sql
 ```

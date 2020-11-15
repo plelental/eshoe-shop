@@ -8,6 +8,8 @@ config/settings.*.php
 
 eshoe-shop/admin-dev/autoupgrade/
 /eshoe-shop/cache/*
+/eshoe-shop/var/cache/dev/*
+/eshoe-shop/var/logs/*
 !eshoe-shop/cache/index.php
 !/eshoe-shopcache/*/
 eshoe-shop/cache/*/*
