@@ -1,0 +1,23 @@
+version: '3.8'
+services: 
+  some-prestashop:
+    image: prestashop/prestashop
+    ports:
+      - 8080:80
+    depends_on:
+      - some-mysql
+    volumes:
+      - ./eshoe-shop:/var/www/html
+    environment:
+      - PS_DEV_MODE=1
+      - DB_SERVER=some-mysql
+      - DB_USER=root
+      - DB_PASSWD=admin
+      - DB_NAME=prestashop
+      - PS_INSTALL_AUTO=0
+
+  some-mysql:
+    image: mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=admin
+      - MYSQL_DATABASE=prestashop
