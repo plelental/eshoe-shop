@@ -45,7 +45,7 @@ class PsAddonsConnect extends Module
         // Settings
         $this->name = 'psaddonsconnect';
         $this->tab = '';
-        $this->version = '2.1.1';
+        $this->version = '2.1.2';
         $this->author = 'PrestaShop';
         $this->need_instance = 0;
 
@@ -57,7 +57,7 @@ class PsAddonsConnect extends Module
         parent::__construct();
 
         $this->displayName = $this->l('Tips and Updates module');
-        $this->description = $this->l('Thanks to this module, connect to your Addons account from the dashboard of your back-office');
+        $this->description = $this->l('2 in 1: Make security and functional updates easier for all modules in your store, and take advantage of an e-commerce tip each week to help you on your way.');
 
         // Settings paths
         $this->js_path = $this->_path . 'views/js/';
