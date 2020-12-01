@@ -7,6 +7,7 @@ eCommerce project done for academic classes
 3. Wait 60 seconds
 4. Database dump will be automatically loaded
 5. You are ready to use prestashop `http://localhost:8888`
+6. Admin panel: `http://localhost:8888/admin123`
 
 
 ## How to run
