@@ -26,7 +26,7 @@ Product ID;Attribute (Name:Position);Value
 2;Rozmiar:0;43 1/3 
 2;Rozmiar:0;44 
 2;Rozmiar:0;44 2/3 
-2;Rozmiar:0;45 1/3 
+2;Rozmiar:0; 45 1/3 
 2;Rozmiar:0;46 2/3 
 2;Rozmiar:0;46 
 2;Rozmiar:0;47 1/3 
@@ -48,7 +48,7 @@ Product ID;Attribute (Name:Position);Value
 3;Rozmiar:0;44 
 3;Rozmiar:0;45 1/3 
 3;Rozmiar:0;46 
-3;Rozmiar:0;46 2/3 
+3;Rozmiar:0;46 2/3  
 3;Rozmiar:0;47 1/3 
 3;Rozmiar:0;48 
 3;Rozmiar:0;48 2/3 
@@ -95,7 +95,7 @@ Product ID;Attribute (Name:Position);Value
 8;Rozmiar:0;46.5 
 8;Rozmiar:0;47 
 8;Rozmiar:0;48.5 
-8;Rozmiar:0;49.5  
+8;Rozmiar:0;49.5 
 8;Rozmiar:0;51 
 9;Rozmiar:0;36 
 9;Rozmiar:0;37 
@@ -158,7 +158,7 @@ Product ID;Attribute (Name:Position);Value
 12;Rozmiar:0;41 
 12;Rozmiar:0;41.5 
 12;Rozmiar:0;42 
-12;Rozmiar:0; 43 
+12;Rozmiar:0;43 
 12;Rozmiar:0;43.5 
 12;Rozmiar:0;44 
 12;Rozmiar:0;44.5 
@@ -235,7 +235,7 @@ Product ID;Attribute (Name:Position);Value
 17;Rozmiar:0;47.5 
 17;Rozmiar:0;48 
 17;Rozmiar:0;49 
-18;Rozmiar:0;40  
+18;Rozmiar:0;40 
 18;Rozmiar:0;41 
 18;Rozmiar:0;42 
 18;Rozmiar:0;43 
@@ -261,7 +261,7 @@ Product ID;Attribute (Name:Position);Value
 20;Rozmiar:0;42 
 20;Rozmiar:0;42.5 
 20;Rozmiar:0;43 
-20;Rozmiar:0;44  
+20;Rozmiar:0;44 
 20;Rozmiar:0;44.5 
 20;Rozmiar:0;45 
 20;Rozmiar:0;45.5 
@@ -270,7 +270,7 @@ Product ID;Attribute (Name:Position);Value
 21;Rozmiar:0;39 1/3 
 21;Rozmiar:0;40 
 21;Rozmiar:0;40 2/3 
-21;Rozmiar:0;41 1/3 
+21;Rozmiar:0;41 1/3  
 21;Rozmiar:0;42 
 21;Rozmiar:0;42 2/3 
 21;Rozmiar:0;43 1/3 
@@ -282,12 +282,12 @@ Product ID;Attribute (Name:Position);Value
 21;Rozmiar:0;47 1/3 
 21;Rozmiar:0;48 
 21;Rozmiar:0;48 2/3 
-22;Rozmiar:0;36 
+22;Rozmiar:0; 36 
 22;Rozmiar:0;37 
 22;Rozmiar:0;37.5 
 22;Rozmiar:0;38 
 22;Rozmiar:0;38.5 
-22;Rozmiar:0; 39.5 
+22;Rozmiar:0;39.5 
 22;Rozmiar:0;40 
 22;Rozmiar:0;40.5 
 22;Rozmiar:0;41.5 
@@ -358,7 +358,7 @@ Product ID;Attribute (Name:Position);Value
 28;Rozmiar:0;43 
 28;Rozmiar:0;44 
 28;Rozmiar:0;44.5 
-28;Rozmiar:0;45  
+28;Rozmiar:0;45 
 28;Rozmiar:0;45.5 
 28;Rozmiar:0;46.5 
 28;Rozmiar:0;47.5 
@@ -402,17 +402,17 @@ Product ID;Attribute (Name:Position);Value
 29;Rozmiar:0;54 
 29;Rozmiar:0;54.5 
 29;Rozmiar:0;55 
-29;Rozmiar:0;55.5 
+29;Rozmiar:0; 55.5 
 29;Rozmiar:0;56 
 29;Rozmiar:0;56.5 
-31;Rozmiar:0;40  
+31;Rozmiar:0;40 
 31;Rozmiar:0;41 
 31;Rozmiar:0;42 
 31;Rozmiar:0;43 
 31;Rozmiar:0;44 
 31;Rozmiar:0;45 
 31;Rozmiar:0;46 
-32;Rozmiar:0;34.5 
+32;Rozmiar:0; 34.5 
 32;Rozmiar:0;35 
 32;Rozmiar:0;36 
 32;Rozmiar:0;36.5 
@@ -438,7 +438,7 @@ Product ID;Attribute (Name:Position);Value
 33;Rozmiar:0;36 
 33;Rozmiar:0;37 
 33;Rozmiar:0;38 
-33;Rozmiar:0;39 
+33;Rozmiar:0; 39 
 33;Rozmiar:0;39.5 
 33;Rozmiar:0;40 
 33;Rozmiar:0;41 
@@ -552,7 +552,7 @@ Product ID;Attribute (Name:Position);Value
 43;Rozmiar:0;42 
 43;Rozmiar:0;43 
 43;Rozmiar:0;44 
-43;Rozmiar:0; 45 
+43;Rozmiar:0;45 
 43;Rozmiar:0;46 
 44;Rozmiar:0;36 
 44;Rozmiar:0;37 
@@ -652,8 +652,8 @@ Product ID;Attribute (Name:Position);Value
 48;Rozmiar:0;42.5 
 48;Rozmiar:0;43 
 48;Rozmiar:0;44 
-48;Rozmiar:0;44.5 
-48;Rozmiar:0; 45 
+48;Rozmiar:0;44.5  
+48;Rozmiar:0;45 
 48;Rozmiar:0;45.5 
 48;Rozmiar:0;46.5 
 48;Rozmiar:0;47.5 
@@ -665,7 +665,7 @@ Product ID;Attribute (Name:Position);Value
 49;Rozmiar:0;39 1/3 
 49;Rozmiar:0;40 
 49;Rozmiar:0;40 2/3 
-49;Rozmiar:0;41 1/3  
+49;Rozmiar:0;41 1/3 
 49;Rozmiar:0;42 
 49;Rozmiar:0;42 2/3 
 49;Rozmiar:0;43 1/3 
@@ -675,7 +675,7 @@ Product ID;Attribute (Name:Position);Value
 49;Rozmiar:0;46 
 49;Rozmiar:0;46 2/3 
 49;Rozmiar:0;47 1/3 
-50;Rozmiar:0; 34.5 
+50;Rozmiar:0;34.5 
 50;Rozmiar:0;35 
 50;Rozmiar:0;36 
 50;Rozmiar:0;36.5 
@@ -686,7 +686,7 @@ Product ID;Attribute (Name:Position);Value
 50;Rozmiar:0;40 
 50;Rozmiar:0;40.5 
 50;Rozmiar:0;41 
-50;Rozmiar:0;42 
+50;Rozmiar:0;42  
 50;Rozmiar:0;42.5 
 50;Rozmiar:0;43 
 50;Rozmiar:0;44 
@@ -740,7 +740,7 @@ Product ID;Attribute (Name:Position);Value
 55;Rozmiar:0;44 
 55;Rozmiar:0;45 
 56;Rozmiar:0;40 
-56;Rozmiar:0; 41 
+56;Rozmiar:0;41 
 56;Rozmiar:0;42 
 56;Rozmiar:0;43 
 56;Rozmiar:0;44 
@@ -753,7 +753,7 @@ Product ID;Attribute (Name:Position);Value
 57;Rozmiar:0;44.5 
 57;Rozmiar:0;45 
 57;Rozmiar:0;45.5 
-57;Rozmiar:0;46  
+57;Rozmiar:0;46 
 58;Rozmiar:0;40 
 58;Rozmiar:0;41 
 58;Rozmiar:0;42 
@@ -776,11 +776,11 @@ Product ID;Attribute (Name:Position);Value
 59;Rozmiar:0;44 
 59;Rozmiar:0;44 2/3 
 59;Rozmiar:0;45 1/3 
-59;Rozmiar:0;46 
+59;Rozmiar:0; 46 
 59;Rozmiar:0;46 2/3 
 59;Rozmiar:0;47 1/3 
 60;Rozmiar:0;36 
-60;Rozmiar:0;37 
+60;Rozmiar:0; 37 
 60;Rozmiar:0;38 
 60;Rozmiar:0;39 
 60;Rozmiar:0;40 
@@ -805,7 +805,7 @@ Product ID;Attribute (Name:Position);Value
 64;Rozmiar:0;33.5 
 64;Rozmiar:0;34 
 64;Rozmiar:0;35 
-64;Rozmiar:0;35.5  
+64;Rozmiar:0;35.5 
 64;Rozmiar:0;36 
 64;Rozmiar:0;36.5 
 64;Rozmiar:0;37.5 
@@ -816,7 +816,7 @@ Product ID;Attribute (Name:Position);Value
 64;Rozmiar:0;40.5 
 64;Rozmiar:0;41 
 64;Rozmiar:0;42 
-64;Rozmiar:0; 42.5 
+64;Rozmiar:0;42.5 
 64;Rozmiar:0;43 
 64;Rozmiar:0;44 
 64;Rozmiar:0;44.5 
@@ -847,7 +847,7 @@ Product ID;Attribute (Name:Position);Value
 65;Rozmiar:0;42 
 65;Rozmiar:0;43 
 65;Rozmiar:0;44 
-65;Rozmiar:0;45 
+65;Rozmiar:0;45  
 66;Rozmiar:0;39 
 66;Rozmiar:0;40 
 66;Rozmiar:0;41 
@@ -931,7 +931,7 @@ Product ID;Attribute (Name:Position);Value
 72;Rozmiar:0;38.5 
 72;Rozmiar:0;39.5 
 72;Rozmiar:0;40 
-72;Rozmiar:0;40.5 
+72;Rozmiar:0; 40.5 
 72;Rozmiar:0;41.5 
 72;Rozmiar:0;42 
 72;Rozmiar:0;42.5 
@@ -962,7 +962,7 @@ Product ID;Attribute (Name:Position);Value
 74;Rozmiar:0;40 
 74;Rozmiar:0;41 
 74;Rozmiar:0;42 
-74;Rozmiar:0;43 
+74;Rozmiar:0; 43 
 75;Rozmiar:0;39 1/3 
 75;Rozmiar:0;40 2/3 
 75;Rozmiar:0;40 
@@ -1038,7 +1038,7 @@ Product ID;Attribute (Name:Position);Value
 79;Rozmiar:0;47 1/3 
 79;Rozmiar:0;48 
 81;Rozmiar:0;40 
-81;Rozmiar:0; 41 
+81;Rozmiar:0;41 
 81;Rozmiar:0;42 
 81;Rozmiar:0;43 
 81;Rozmiar:0;44 
@@ -1077,7 +1077,7 @@ Product ID;Attribute (Name:Position);Value
 84;Rozmiar:0;38 
 84;Rozmiar:0;38.5 
 84;Rozmiar:0;39.5 
-84;Rozmiar:0;40  
+84;Rozmiar:0;40 
 84;Rozmiar:0;40.5 
 84;Rozmiar:0;41.5 
 84;Rozmiar:0;42 
@@ -1088,7 +1088,7 @@ Product ID;Attribute (Name:Position);Value
 84;Rozmiar:0;45 
 84;Rozmiar:0;45.5 
 84;Rozmiar:0;46.5 
-84;Rozmiar:0; 47 
+84;Rozmiar:0;47 
 84;Rozmiar:0;47.5 
 84;Rozmiar:0;49 
 84;Rozmiar:0;50 
@@ -1105,7 +1105,7 @@ Product ID;Attribute (Name:Position);Value
 85;Rozmiar:0;46 
 85;Rozmiar:0;46.5 
 85;Rozmiar:0;47 
-85;Rozmiar:0;48  
+85;Rozmiar:0;48 
 85;Rozmiar:0;49 
 86;Rozmiar:0;40 
 86;Rozmiar:0;40.5 
@@ -1155,7 +1155,7 @@ Product ID;Attribute (Name:Position);Value
 89;Rozmiar:0;44 
 89;Rozmiar:0;45 
 89;Rozmiar:0;46 
-90;Rozmiar:0; 36 
+90;Rozmiar:0;36 
 90;Rozmiar:0;36 2/3 
 90;Rozmiar:0;37 1/3 
 90;Rozmiar:0;38 
@@ -1235,7 +1235,7 @@ Product ID;Attribute (Name:Position);Value
 94;Rozmiar:0;49 
 94;Rozmiar:0;50 
 95;Rozmiar:0;39 1/3 
-95;Rozmiar:0;40 
+95;Rozmiar:0;40  
 95;Rozmiar:0;40 2/3 
 95;Rozmiar:0;41 1/3 
 95;Rozmiar:0;42 
@@ -1246,7 +1246,7 @@ Product ID;Attribute (Name:Position);Value
 95;Rozmiar:0;45 1/3 
 95;Rozmiar:0;46 
 95;Rozmiar:0;46 2/3 
-95;Rozmiar:0;47 1/3 
+95;Rozmiar:0; 47 1/3 
 95;Rozmiar:0;48 
 96;Rozmiar:0;40 
 96;Rozmiar:0;41 
@@ -1257,7 +1257,7 @@ Product ID;Attribute (Name:Position);Value
 96;Rozmiar:0;46 
 97;Rozmiar:0;40 
 97;Rozmiar:0;40 2/3 
-97;Rozmiar:0;41 1/3 
+97;Rozmiar:0; 41 1/3 
 97;Rozmiar:0;42 
 97;Rozmiar:0;42 2/3 
 97;Rozmiar:0;43 1/3 
@@ -1278,7 +1278,7 @@ Product ID;Attribute (Name:Position);Value
 98;Rozmiar:0;40.5 
 98;Rozmiar:0;41.5 
 98;Rozmiar:0;42 
-98;Rozmiar:0;42.5 
+98;Rozmiar:0; 42.5 
 98;Rozmiar:0;43 
 98;Rozmiar:0;44 
 98;Rozmiar:0;44.5 
@@ -1396,18 +1396,18 @@ Product ID;Attribute (Name:Position);Value
 103;Rozmiar:0;40 
 103;Rozmiar:0;40 2/3 
 103;Rozmiar:0;41 1/3 
-103;Rozmiar:0;42 
+103;Rozmiar:0; 42 
 103;Rozmiar:0;42 2/3 
 103;Rozmiar:0;43 1/3 
 103;Rozmiar:0;44 
-103;Rozmiar:0; 44 2/3 
+103;Rozmiar:0;44 2/3 
 103;Rozmiar:0;45 1/3 
 103;Rozmiar:0;46 
 103;Rozmiar:0;46 2/3 
 103;Rozmiar:0;47 1/3 
 103;Rozmiar:0;48 
 104;Rozmiar:0;36 
-104;Rozmiar:0;37  
+104;Rozmiar:0;37 
 104;Rozmiar:0;37.5 
 104;Rozmiar:0;38 
 104;Rozmiar:0;38.5 
@@ -1418,7 +1418,7 @@ Product ID;Attribute (Name:Position);Value
 104;Rozmiar:0;42 
 104;Rozmiar:0;42.5 
 104;Rozmiar:0;43 
-104;Rozmiar:0; 44 
+104;Rozmiar:0;44 
 104;Rozmiar:0;44.5 
 104;Rozmiar:0;45 
 104;Rozmiar:0;45.5 
@@ -1442,7 +1442,7 @@ Product ID;Attribute (Name:Position);Value
 105;Rozmiar:0;44 
 105;Rozmiar:0;44.5 
 105;Rozmiar:0;45 
-105;Rozmiar:0;45.5 
+105;Rozmiar:0;45.5  
 105;Rozmiar:0;46.5 
 105;Rozmiar:0;47 
 105;Rozmiar:0;47.5 
@@ -1481,7 +1481,7 @@ Product ID;Attribute (Name:Position);Value
 108;Rozmiar:0;36 2/3 
 108;Rozmiar:0;37 1/3 
 108;Rozmiar:0;38 
-108;Rozmiar:0;38 2/3 
+108;Rozmiar:0; 38 2/3 
 108;Rozmiar:0;39 1/3 
 108;Rozmiar:0;40 
 108;Rozmiar:0;40 2/3 
@@ -1490,7 +1490,7 @@ Product ID;Attribute (Name:Position);Value
 108;Rozmiar:0;42 2/3 
 108;Rozmiar:0;43 1/3 
 108;Rozmiar:0;44 
-108;Rozmiar:0;44 2/3  
+108;Rozmiar:0;44 2/3 
 108;Rozmiar:0;45 1/3 
 108;Rozmiar:0;46 
 108;Rozmiar:0;46 2/3 
@@ -1636,7 +1636,7 @@ Product ID;Attribute (Name:Position);Value
 115;Rozmiar:0;44.5 
 115;Rozmiar:0;45 
 115;Rozmiar:0;46 
-115;Rozmiar:0;46.5 
+115;Rozmiar:0;46.5  
 115;Rozmiar:0;47 
 115;Rozmiar:0;48 
 115;Rozmiar:0;49 
@@ -1659,7 +1659,7 @@ Product ID;Attribute (Name:Position);Value
 116;Rozmiar:0;42 
 116;Rozmiar:0;42.5 
 116;Rozmiar:0;43 
-116;Rozmiar:0;44 
+116;Rozmiar:0;44  
 116;Rozmiar:0;44.5 
 116;Rozmiar:0;45 
 116;Rozmiar:0;45.5 
@@ -1670,7 +1670,7 @@ Product ID;Attribute (Name:Position);Value
 116;Rozmiar:0;48.5 
 116;Rozmiar:0;49 
 116;Rozmiar:0;49.5 
-116;Rozmiar:0;50 
+116;Rozmiar:0; 50 
 116;Rozmiar:0;50.5 
 116;Rozmiar:0;51 
 116;Rozmiar:0;51.5 
@@ -1689,10 +1689,10 @@ Product ID;Attribute (Name:Position);Value
 118;Rozmiar:0;40 
 118;Rozmiar:0;40 2/3 
 118;Rozmiar:0;41 1/3 
-118;Rozmiar:0;42 
+118;Rozmiar:0;42  
 118;Rozmiar:0;42 2/3 
 118;Rozmiar:0;43 1/3 
-118;Rozmiar:0; 44 
+118;Rozmiar:0;44 
 118;Rozmiar:0;44 2/3 
 118;Rozmiar:0;45 1/3 
 118;Rozmiar:0;46 
@@ -1801,7 +1801,7 @@ Product ID;Attribute (Name:Position);Value
 123;Rozmiar:0;33 
 123;Rozmiar:0;33.5 
 123;Rozmiar:0;34 
-123;Rozmiar:0;35 
+123;Rozmiar:0; 35 
 123;Rozmiar:0;35.5 
 123;Rozmiar:0;36 
 123;Rozmiar:0;36.5 
@@ -1833,7 +1833,7 @@ Product ID;Attribute (Name:Position);Value
 123;Rozmiar:0;52 
 123;Rozmiar:0;52.5 
 123;Rozmiar:0;53 
-123;Rozmiar:0;53.5  
+123;Rozmiar:0;53.5 
 123;Rozmiar:0;54 
 123;Rozmiar:0;54.5 
 123;Rozmiar:0;55 
@@ -1862,7 +1862,7 @@ Product ID;Attribute (Name:Position);Value
 125;Rozmiar:0;39 1/3 
 125;Rozmiar:0;40 
 125;Rozmiar:0;40 2/3 
-125;Rozmiar:0;41 1/3 
+125;Rozmiar:0;41 1/3  
 125;Rozmiar:0;42 
 125;Rozmiar:0;42 2/3 
 125;Rozmiar:0;43 1/3 
@@ -1882,7 +1882,7 @@ Product ID;Attribute (Name:Position);Value
 126;Rozmiar:0;40 2/3 
 126;Rozmiar:0;41 1/3 
 126;Rozmiar:0;42 
-126;Rozmiar:0;42 2/3 
+126;Rozmiar:0;42 2/3  
 126;Rozmiar:0;43 1/3 
 126;Rozmiar:0;44 
 126;Rozmiar:0;44 2/3 
@@ -1896,7 +1896,7 @@ Product ID;Attribute (Name:Position);Value
 126;Rozmiar:0;50 
 126;Rozmiar:0;50 2/3 
 127;Rozmiar:0;40 2/3 
-127;Rozmiar:0;41 1/3 
+127;Rozmiar:0; 41 1/3 
 127;Rozmiar:0;42 
 127;Rozmiar:0;42 2/3 
 127;Rozmiar:0;43 1/3 
@@ -1933,7 +1933,7 @@ Product ID;Attribute (Name:Position);Value
 128;Rozmiar:0;47.5 
 128;Rozmiar:0;48 
 128;Rozmiar:0;48.5 
-128;Rozmiar:0;49 
+128;Rozmiar:0;49  
 128;Rozmiar:0;49.5 
 128;Rozmiar:0;50 
 128;Rozmiar:0;50.5 
@@ -1944,7 +1944,7 @@ Product ID;Attribute (Name:Position);Value
 128;Rozmiar:0;53 
 128;Rozmiar:0;53.5 
 128;Rozmiar:0;54 
-128;Rozmiar:0;54.5 
+128;Rozmiar:0; 54.5 
 128;Rozmiar:0;55 
 128;Rozmiar:0;55.5 
 128;Rozmiar:0;56 
@@ -1952,7 +1952,7 @@ Product ID;Attribute (Name:Position);Value
 129;Rozmiar:0;38 
 129;Rozmiar:0;38.5 
 129;Rozmiar:0;39 
-129;Rozmiar:0; 40 
+129;Rozmiar:0;40 
 129;Rozmiar:0;40.5 
 129;Rozmiar:0;41 
 129;Rozmiar:0;42 
@@ -1985,7 +1985,7 @@ Product ID;Attribute (Name:Position);Value
 130;Rozmiar:0;42 
 130;Rozmiar:0;42.5 
 130;Rozmiar:0;43 
-130;Rozmiar:0;44 
+130;Rozmiar:0;44  
 130;Rozmiar:0;44.5 
 130;Rozmiar:0;45 
 130;Rozmiar:0;45.5 
@@ -1996,7 +1996,7 @@ Product ID;Attribute (Name:Position);Value
 130;Rozmiar:0;48.5 
 130;Rozmiar:0;49 
 130;Rozmiar:0;49.5 
-130;Rozmiar:0;50 
+130;Rozmiar:0; 50 
 130;Rozmiar:0;50.5 
 130;Rozmiar:0;51 
 130;Rozmiar:0;51.5 
@@ -2064,7 +2064,7 @@ Product ID;Attribute (Name:Position);Value
 133;Rozmiar:0;40 
 133;Rozmiar:0;40 2/3 
 133;Rozmiar:0;41 1/3 
-133;Rozmiar:0; 42 
+133;Rozmiar:0;42 
 133;Rozmiar:0;42 2/3 
 133;Rozmiar:0;43 1/3 
 133;Rozmiar:0;44 
@@ -2140,7 +2140,7 @@ Product ID;Attribute (Name:Position);Value
 137;Rozmiar:0;51 
 138;Rozmiar:0;36 
 138;Rozmiar:0;36 2/3 
-138;Rozmiar:0;37 1/3 
+138;Rozmiar:0;37 1/3  
 138;Rozmiar:0;38 
 138;Rozmiar:0;38 2/3 
 138;Rozmiar:0;39 1/3 
@@ -2160,7 +2160,7 @@ Product ID;Attribute (Name:Position);Value
 138;Rozmiar:0;48 2/3 
 138;Rozmiar:0;49.5 
 138;Rozmiar:0;50 
-138;Rozmiar:0;50 2/3  
+138;Rozmiar:0;50 2/3 
 138;Rozmiar:0;51 1/3 
 138;Rozmiar:0;52 2/3 
 138;Rozmiar:0;53 1/3 
@@ -2179,7 +2179,7 @@ Product ID;Attribute (Name:Position);Value
 139;Rozmiar:0;43 1/3 
 139;Rozmiar:0;44 2/3 
 139;Rozmiar:0;44 
-139;Rozmiar:0;45 1/3  
+139;Rozmiar:0;45 1/3 
 139;Rozmiar:0;46 
 139;Rozmiar:0;46 2/3 
 139;Rozmiar:0;47 1/3 
@@ -2190,7 +2190,7 @@ Product ID;Attribute (Name:Position);Value
 139;Rozmiar:0;50 2/3 
 139;Rozmiar:0;51 1/3 
 139;Rozmiar:0;52 2/3 
-139;Rozmiar:0; 53 1/3 
+139;Rozmiar:0;53 1/3 
 139;Rozmiar:0;54 2/3 
 140;Rozmiar:0;32.5 
 140;Rozmiar:0;33 
@@ -2205,7 +2205,7 @@ Product ID;Attribute (Name:Position);Value
 140;Rozmiar:0;38.5 
 140;Rozmiar:0;39 
 140;Rozmiar:0;40 
-140;Rozmiar:0;40.5  
+140;Rozmiar:0;40.5 
 140;Rozmiar:0;41 
 140;Rozmiar:0;42 
 140;Rozmiar:0;42.5 
@@ -2216,7 +2216,7 @@ Product ID;Attribute (Name:Position);Value
 140;Rozmiar:0;45.5 
 140;Rozmiar:0;46 
 140;Rozmiar:0;47 
-140;Rozmiar:0; 47.5 
+140;Rozmiar:0;47.5 
 140;Rozmiar:0;48 
 140;Rozmiar:0;48.5 
 140;Rozmiar:0;49 
@@ -2227,7 +2227,7 @@ Product ID;Attribute (Name:Position);Value
 140;Rozmiar:0;51.5 
 140;Rozmiar:0;52 
 140;Rozmiar:0;52.5 
-140;Rozmiar:0;53 
+140;Rozmiar:0;53  
 140;Rozmiar:0;53.5 
 140;Rozmiar:0;54 
 140;Rozmiar:0;54.5 
@@ -2256,7 +2256,7 @@ Product ID;Attribute (Name:Position);Value
 142;Rozmiar:0;43 1/3 
 142;Rozmiar:0;44 
 142;Rozmiar:0;44 2/3 
-142;Rozmiar:0;45 1/3 
+142;Rozmiar:0; 45 1/3 
 142;Rozmiar:0;46 
 142;Rozmiar:0;46 2/3 
 142;Rozmiar:0;47 1/3 
@@ -2273,7 +2273,7 @@ Product ID;Attribute (Name:Position);Value
 143;Rozmiar:0;46 
 143;Rozmiar:0;46 2/3 
 143;Rozmiar:0;47 1/3 
-143;Rozmiar:0;48  
+143;Rozmiar:0;48 
 144;Rozmiar:0;36 
 144;Rozmiar:0;37 
 144;Rozmiar:0;37.5 
@@ -2297,7 +2297,7 @@ Product ID;Attribute (Name:Position);Value
 144;Rozmiar:0;50 
 145;Rozmiar:0;32.5 
 145;Rozmiar:0;33 
-145;Rozmiar:0;33.5 
+145;Rozmiar:0;33.5  
 145;Rozmiar:0;34 
 145;Rozmiar:0;35 
 145;Rozmiar:0;35.5 
@@ -2308,7 +2308,7 @@ Product ID;Attribute (Name:Position);Value
 145;Rozmiar:0;38.5 
 145;Rozmiar:0;39 
 145;Rozmiar:0;40 
-145;Rozmiar:0;40.5 
+145;Rozmiar:0; 40.5 
 145;Rozmiar:0;41 
 145;Rozmiar:0;42 
 145;Rozmiar:0;42.5 
@@ -2325,7 +2325,7 @@ Product ID;Attribute (Name:Position);Value
 145;Rozmiar:0;49 
 145;Rozmiar:0;49.5 
 145;Rozmiar:0;50 
-145;Rozmiar:0; 50.5 
+145;Rozmiar:0;50.5 
 145;Rozmiar:0;51 
 145;Rozmiar:0;51.5 
 145;Rozmiar:0;52 
@@ -2368,7 +2368,7 @@ Product ID;Attribute (Name:Position);Value
 150;Rozmiar:0;44 
 150;Rozmiar:0;45 1/3 
 150;Rozmiar:0;46 
-150;Rozmiar:0;46 2/3 
+150;Rozmiar:0;46 2/3  
 150;Rozmiar:0;47 1/3 
 150;Rozmiar:0;48 
 150;Rozmiar:0;48 2/3 
@@ -2378,7 +2378,7 @@ Product ID;Attribute (Name:Position);Value
 150;Rozmiar:0;51 1/3 
 150;Rozmiar:0;52 2/3 
 150;Rozmiar:0;53 1/3 
-150;Rozmiar:0;54 2/3  
+150;Rozmiar:0;54 2/3 
 152;Rozmiar:0;40 
 152;Rozmiar:0;41 
 152;Rozmiar:0;41.5 
@@ -2400,7 +2400,7 @@ Product ID;Attribute (Name:Position);Value
 154;Rozmiar:0;41.5 
 154;Rozmiar:0;42 
 154;Rozmiar:0;42.5 
-154;Rozmiar:0;43 1/3 
+154;Rozmiar:0; 43 1/3 
 154;Rozmiar:0;44 
 154;Rozmiar:0;45 
 154;Rozmiar:0;45 2/3 
@@ -2411,7 +2411,7 @@ Product ID;Attribute (Name:Position);Value
 155;Rozmiar:0;37 
 155;Rozmiar:0;37.5 
 155;Rozmiar:0;38 
-155;Rozmiar:0;39 
+155;Rozmiar:0; 39 
 155;Rozmiar:0;39.5 
 155;Rozmiar:0;40 
 155;Rozmiar:0;41 
@@ -2450,7 +2450,7 @@ Product ID;Attribute (Name:Position);Value
 157;Rozmiar:0;44 
 157;Rozmiar:0;44 2/3 
 157;Rozmiar:0;45 1/3 
-157;Rozmiar:0; 46 
+157;Rozmiar:0;46 
 157;Rozmiar:0;46 2/3 
 157;Rozmiar:0;47 1/3 
 157;Rozmiar:0;48 
@@ -2527,7 +2527,7 @@ Product ID;Attribute (Name:Position);Value
 160;Rozmiar:0;44 
 160;Rozmiar:0;44.5 
 160;Rozmiar:0;45 
-160;Rozmiar:0;45.5 
+160;Rozmiar:0;45.5  
 160;Rozmiar:0;46 
 160;Rozmiar:0;47 
 160;Rozmiar:0;47.5 
@@ -2538,7 +2538,7 @@ Product ID;Attribute (Name:Position);Value
 160;Rozmiar:0;50 
 160;Rozmiar:0;50.5 
 160;Rozmiar:0;51 
-160;Rozmiar:0;51.5 
+160;Rozmiar:0; 51.5 
 160;Rozmiar:0;52 
 160;Rozmiar:0;52.5 
 160;Rozmiar:0;53 
@@ -2548,7 +2548,7 @@ Product ID;Attribute (Name:Position);Value
 160;Rozmiar:0;55 
 160;Rozmiar:0;55.5 
 160;Rozmiar:0;56 
-160;Rozmiar:0;56.5  
+160;Rozmiar:0;56.5 
 161;Rozmiar:0;36 
 161;Rozmiar:0;37 
 161;Rozmiar:0;37.5 
@@ -2751,7 +2751,7 @@ Product ID;Attribute (Name:Position);Value
 171;Rozmiar:0;45 
 171;Rozmiar:0;46 
 171;Rozmiar:0;47 
-171;Rozmiar:0;48  
+171;Rozmiar:0;48 
 171;Rozmiar:0;49 
 171;Rozmiar:0;50 
 172;Rozmiar:0;36 
@@ -2789,7 +2789,7 @@ Product ID;Attribute (Name:Position);Value
 173;Rozmiar:0;38 
 173;Rozmiar:0;39 
 173;Rozmiar:0;39.5 
-173;Rozmiar:0; 40 
+173;Rozmiar:0;40 
 173;Rozmiar:0;41 
 173;Rozmiar:0;41.5 
 173;Rozmiar:0;42 
@@ -2899,7 +2899,7 @@ Product ID;Attribute (Name:Position);Value
 176;Rozmiar:0;51 
 176;Rozmiar:0;51.5 
 176;Rozmiar:0;52 
-176;Rozmiar:0;52.5 
+176;Rozmiar:0;52.5  
 176;Rozmiar:0;53 
 176;Rozmiar:0;53.5 
 176;Rozmiar:0;54 
@@ -2944,7 +2944,7 @@ Product ID;Attribute (Name:Position);Value
 178;Rozmiar:0;46.5 
 178;Rozmiar:0;47 
 178;Rozmiar:0;48 
-178;Rozmiar:0;49  
+178;Rozmiar:0;49 
 178;Rozmiar:0;50 
 179;Rozmiar:0;36 
 179;Rozmiar:0;36 2/3 
@@ -2971,7 +2971,7 @@ Product ID;Attribute (Name:Position);Value
 179;Rozmiar:0;50 2/3 
 180;Rozmiar:0;40 2/3 
 180;Rozmiar:0;41 1/3 
-180;Rozmiar:0; 42 
+180;Rozmiar:0;42 
 180;Rozmiar:0;42 2/3 
 180;Rozmiar:0;43 1/3 
 180;Rozmiar:0;44 
@@ -3032,7 +3032,7 @@ Product ID;Attribute (Name:Position);Value
 184;Rozmiar:0;39 
 184;Rozmiar:0;40 
 184;Rozmiar:0;40.5 
-184;Rozmiar:0;41 
+184;Rozmiar:0;41  
 184;Rozmiar:0;42 
 184;Rozmiar:0;42.5 
 184;Rozmiar:0;43 
@@ -3043,7 +3043,7 @@ Product ID;Attribute (Name:Position);Value
 184;Rozmiar:0;47 
 184;Rozmiar:0;48 
 184;Rozmiar:0;49 
-184;Rozmiar:0;50 
+184;Rozmiar:0; 50 
 185;Rozmiar:0;32.5 
 185;Rozmiar:0;33 
 185;Rozmiar:0;33.5 
@@ -3088,7 +3088,7 @@ Product ID;Attribute (Name:Position);Value
 185;Rozmiar:0;56 
 185;Rozmiar:0;56.5 
 186;Rozmiar:0;32 
-186;Rozmiar:0;32.5  
+186;Rozmiar:0;32.5 
 186;Rozmiar:0;33 
 186;Rozmiar:0;34 
 186;Rozmiar:0;34.5 
@@ -3099,7 +3099,7 @@ Product ID;Attribute (Name:Position);Value
 186;Rozmiar:0;38.5 
 186;Rozmiar:0;39 
 186;Rozmiar:0;40 
-186;Rozmiar:0; 40.5 
+186;Rozmiar:0;40.5 
 186;Rozmiar:0;41 
 186;Rozmiar:0;42 
 186;Rozmiar:0;42.5 
@@ -3134,7 +3134,7 @@ Product ID;Attribute (Name:Position);Value
 188;Rozmiar:0;34 
 188;Rozmiar:0;35 
 188;Rozmiar:0;35.5 
-188;Rozmiar:0;36 
+188;Rozmiar:0;36  
 188;Rozmiar:0;36.5 
 188;Rozmiar:0;37.5 
 188;Rozmiar:0;38 
@@ -3145,7 +3145,7 @@ Product ID;Attribute (Name:Position);Value
 188;Rozmiar:0;41 
 188;Rozmiar:0;42 
 188;Rozmiar:0;42.5 
-188;Rozmiar:0;43 
+188;Rozmiar:0; 43 
 188;Rozmiar:0;44 
 188;Rozmiar:0;44.5 
 188;Rozmiar:0;45 
@@ -3174,7 +3174,7 @@ Product ID;Attribute (Name:Position);Value
 189;Rozmiar:0;40 
 189;Rozmiar:0;41 
 189;Rozmiar:0;42 
-189;Rozmiar:0;43 
+189;Rozmiar:0; 43 
 189;Rozmiar:0;44 
 189;Rozmiar:0;45 
 189;Rozmiar:0;46 
@@ -3186,7 +3186,7 @@ Product ID;Attribute (Name:Position);Value
 190;Rozmiar:0;38.5 
 190;Rozmiar:0;39 
 190;Rozmiar:0;40 
-190;Rozmiar:0;40.5 
+190;Rozmiar:0;40.5  
 190;Rozmiar:0;41 
 190;Rozmiar:0;42 
 190;Rozmiar:0;42.5 
@@ -3197,10 +3197,10 @@ Product ID;Attribute (Name:Position);Value
 190;Rozmiar:0;46 
 190;Rozmiar:0;46.5 
 190;Rozmiar:0;47 
-190;Rozmiar:0;48.5 
+190;Rozmiar:0; 48.5 
 190;Rozmiar:0;49.5 
 190;Rozmiar:0;51 
-191;Rozmiar:0;39 1/3  
+191;Rozmiar:0;39 1/3 
 191;Rozmiar:0;40 
 191;Rozmiar:0;40 2/3 
 191;Rozmiar:0;41 1/3 
@@ -3211,7 +3211,7 @@ Product ID;Attribute (Name:Position);Value
 191;Rozmiar:0;44 2/3 
 191;Rozmiar:0;45 1/3 
 191;Rozmiar:0;46 
-191;Rozmiar:0; 46 2/3 
+191;Rozmiar:0;46 2/3 
 191;Rozmiar:0;47 1/3 
 191;Rozmiar:0;48 
 192;Rozmiar:0;32 
@@ -3311,7 +3311,7 @@ Product ID;Attribute (Name:Position);Value
 196;Rozmiar:0;37.5 
 196;Rozmiar:0;38 
 196;Rozmiar:0;39 
-196;Rozmiar:0;39.5 
+196;Rozmiar:0;39.5  
 196;Rozmiar:0;40 
 196;Rozmiar:0;41 
 196;Rozmiar:0;41.5 
@@ -3322,7 +3322,7 @@ Product ID;Attribute (Name:Position);Value
 196;Rozmiar:0;44.5 
 196;Rozmiar:0;45 
 196;Rozmiar:0;46 
-196;Rozmiar:0;46.5 
+196;Rozmiar:0; 46.5 
 197;Rozmiar:0;35 
 197;Rozmiar:0;36 
 197;Rozmiar:0;36.5 
@@ -3338,7 +3338,7 @@ Product ID;Attribute (Name:Position);Value
 197;Rozmiar:0;42.5 
 197;Rozmiar:0;43 
 197;Rozmiar:0;44 
-197;Rozmiar:0;44.5  
+197;Rozmiar:0;44.5 
 197;Rozmiar:0;45 
 197;Rozmiar:0;46 
 197;Rozmiar:0;46.5 
@@ -3394,7 +3394,7 @@ Product ID;Attribute (Name:Position);Value
 199;Rozmiar:0;49 
 199;Rozmiar:0;49.5 
 199;Rozmiar:0;50 
-199;Rozmiar:0;50.5 
+199;Rozmiar:0;50.5  
 199;Rozmiar:0;51 
 199;Rozmiar:0;51.5 
 199;Rozmiar:0;52 
@@ -3405,7 +3405,7 @@ Product ID;Attribute (Name:Position);Value
 199;Rozmiar:0;54.5 
 199;Rozmiar:0;55 
 199;Rozmiar:0;55.5 
-199;Rozmiar:0;56 
+199;Rozmiar:0; 56 
 199;Rozmiar:0;56.5 
 200;Rozmiar:0;38 
 200;Rozmiar:0;38.5 
@@ -3445,7 +3445,7 @@ Product ID;Attribute (Name:Position);Value
 205;Rozmiar:0;35 
 205;Rozmiar:0;36 
 205;Rozmiar:0;37 
-205;Rozmiar:0;38  
+205;Rozmiar:0;38 
 205;Rozmiar:0;39 
 205;Rozmiar:0;40 
 205;Rozmiar:0;41 
@@ -3459,7 +3459,7 @@ Product ID;Attribute (Name:Position);Value
 206;Rozmiar:0;37-38 
 206;Rozmiar:0;38-39 
 206;Rozmiar:0;39-40 
-206;Rozmiar:0; 41-42 
+206;Rozmiar:0;41-42 
 206;Rozmiar:0;42-43 
 206;Rozmiar:0;43-44 
 206;Rozmiar:0;45-46 
@@ -3470,14 +3470,14 @@ Product ID;Attribute (Name:Position);Value
 207;Rozmiar:0;42 
 207;Rozmiar:0;43 
 207;Rozmiar:0;44 
-207;Rozmiar:0; 45 
+207;Rozmiar:0;45 
 209;Rozmiar:0;40 
 209;Rozmiar:0;41 
 209;Rozmiar:0;42 
 209;Rozmiar:0;43 
 209;Rozmiar:0;44 
 209;Rozmiar:0;45 
-209;Rozmiar:0;46 
+209;Rozmiar:0; 46 
 211;Rozmiar:0;40 
 211;Rozmiar:0;41 
 211;Rozmiar:0;42 
@@ -3564,10 +3564,10 @@ Product ID;Attribute (Name:Position);Value
 217;Rozmiar:0;50 
 217;Rozmiar:0;50.5 
 217;Rozmiar:0;51 
-217;Rozmiar:0;51.5 
+217;Rozmiar:0;51.5  
 217;Rozmiar:0;52 
 217;Rozmiar:0;52.5 
-217;Rozmiar:0;53  
+217;Rozmiar:0;53 
 217;Rozmiar:0;53.5 
 217;Rozmiar:0;54 
 217;Rozmiar:0;54.5 
@@ -3582,7 +3582,7 @@ Product ID;Attribute (Name:Position);Value
 218;Rozmiar:0;35 
 218;Rozmiar:0;35.5 
 218;Rozmiar:0;36 
-218;Rozmiar:0;36.5 
+218;Rozmiar:0; 36.5 
 218;Rozmiar:0;37.5 
 218;Rozmiar:0;38 
 218;Rozmiar:0;38.5 
@@ -3627,7 +3627,7 @@ Product ID;Attribute (Name:Position);Value
 219;Rozmiar:0;36 
 219;Rozmiar:0;36.5 
 219;Rozmiar:0;37.5 
-219;Rozmiar:0;38  
+219;Rozmiar:0;38 
 219;Rozmiar:0;38.5 
 219;Rozmiar:0;39 
 219;Rozmiar:0;40 
@@ -3638,7 +3638,7 @@ Product ID;Attribute (Name:Position);Value
 219;Rozmiar:0;43 
 219;Rozmiar:0;44 
 219;Rozmiar:0;44.5 
-219;Rozmiar:0; 45 
+219;Rozmiar:0;45 
 219;Rozmiar:0;45.5 
 219;Rozmiar:0;46 
 219;Rozmiar:0;47 
@@ -3709,7 +3709,7 @@ Product ID;Attribute (Name:Position);Value
 223;Rozmiar:0;38-39 
 223;Rozmiar:0;39-40 
 223;Rozmiar:0;41-42 
-223;Rozmiar:0;42-43  
+223;Rozmiar:0;42-43 
 223;Rozmiar:0;43-44 
 223;Rozmiar:0;45-46 
 223;Rozmiar:0;46-47 
@@ -3728,7 +3728,7 @@ Product ID;Attribute (Name:Position);Value
 225;Rozmiar:0;41 
 225;Rozmiar:0;42 
 225;Rozmiar:0;43 
-225;Rozmiar:0; 44 
+225;Rozmiar:0;44 
 225;Rozmiar:0;45 
 225;Rozmiar:0;46 
 226;Rozmiar:0;40 
@@ -3747,7 +3747,7 @@ Product ID;Attribute (Name:Position);Value
 227;Rozmiar:0;46 
 228;Rozmiar:0;40 
 228;Rozmiar:0;41 
-228;Rozmiar:0;42 
+228;Rozmiar:0; 42 
 228;Rozmiar:0;43 
 228;Rozmiar:0;44 
 228;Rozmiar:0;45 
@@ -3757,7 +3757,7 @@ Product ID;Attribute (Name:Position);Value
 229;Rozmiar:0;42 
 229;Rozmiar:0;43 
 229;Rozmiar:0;44 
-229;Rozmiar:0;45 
+229;Rozmiar:0; 45 
 229;Rozmiar:0;46 
 230;Rozmiar:0;40 
 230;Rozmiar:0;41 
@@ -3772,7 +3772,7 @@ Product ID;Attribute (Name:Position);Value
 231;Rozmiar:0;41 
 231;Rozmiar:0;42 
 231;Rozmiar:0;43 
-231;Rozmiar:0; 44 
+231;Rozmiar:0;44 
 231;Rozmiar:0;45 
 231;Rozmiar:0;46 
 232;Rozmiar:0;40 
@@ -3798,7 +3798,7 @@ Product ID;Attribute (Name:Position);Value
 234;Rozmiar:0;42 
 234;Rozmiar:0;43 
 234;Rozmiar:0;44 
-234;Rozmiar:0;45 
+234;Rozmiar:0; 45 
 234;Rozmiar:0;46 
 235;Rozmiar:0;39 
 235;Rozmiar:0;39.5 
@@ -3834,7 +3834,7 @@ Product ID;Attribute (Name:Position);Value
 237;Rozmiar:0;45 
 237;Rozmiar:0;46 
 238;Rozmiar:0;40 
-238;Rozmiar:0;41 
+238;Rozmiar:0; 41 
 238;Rozmiar:0;42.5 
 238;Rozmiar:0;44 
 238;Rozmiar:0;45 
@@ -3867,7 +3867,7 @@ Product ID;Attribute (Name:Position);Value
 241;Rozmiar:0;43 1/3 
 241;Rozmiar:0;44 2/3 
 241;Rozmiar:0;44 
-241;Rozmiar:0;45 1/3 
+241;Rozmiar:0;45 1/3  
 241;Rozmiar:0;46 
 241;Rozmiar:0;46 2/3 
 241;Rozmiar:0;47 1/3 
@@ -3891,10 +3891,10 @@ Product ID;Attribute (Name:Position);Value
 242;Rozmiar:0;45 1/3 
 242;Rozmiar:0;46 
 243;Rozmiar:0;39 
-243;Rozmiar:0; 40.5 
+243;Rozmiar:0;40.5 
 243;Rozmiar:0;42 
 243;Rozmiar:0;43 
-243;Rozmiar:0;44.5 
+243;Rozmiar:0;44.5  
 243;Rozmiar:0;46 
 243;Rozmiar:0;47 
 244;Rozmiar:0;39 
@@ -3903,14 +3903,14 @@ Product ID;Attribute (Name:Position);Value
 244;Rozmiar:0;43 
 244;Rozmiar:0;44.5 
 244;Rozmiar:0;46 
-244;Rozmiar:0;47 
+244;Rozmiar:0;47  
 245;Rozmiar:0;38 
 245;Rozmiar:0;39 
 245;Rozmiar:0;40.5 
 245;Rozmiar:0;42 
 245;Rozmiar:0;43 
 245;Rozmiar:0;44.5 
-245;Rozmiar:0; 46 
+245;Rozmiar:0;46 
 245;Rozmiar:0;47 
 246;Rozmiar:0;39.5 
 246;Rozmiar:0;41.5 
@@ -3921,7 +3921,7 @@ Product ID;Attribute (Name:Position);Value
 246;Rozmiar:0;48.5 
 247;Rozmiar:0;36.5 
 247;Rozmiar:0;37.5 
-247;Rozmiar:0;38.5 
+247;Rozmiar:0; 38.5 
 247;Rozmiar:0;39.5 
 247;Rozmiar:0;41.5 
 247;Rozmiar:0;42.5 
@@ -3944,8 +3944,8 @@ Product ID;Attribute (Name:Position);Value
 249;Rozmiar:0;38.5 
 249;Rozmiar:0;39.5 
 249;Rozmiar:0;41.5 
-249;Rozmiar:0; 42.5 
-249;Rozmiar:0;43.5 
+249;Rozmiar:0;42.5 
+249;Rozmiar:0; 43.5 
 249;Rozmiar:0;45.5 
 249;Rozmiar:0;46.5 
 249;Rozmiar:0;48.5 
@@ -3970,7 +3970,7 @@ Product ID;Attribute (Name:Position);Value
 252;Rozmiar:0;43 
 252;Rozmiar:0;44 
 252;Rozmiar:0;45 
-252;Rozmiar:0; 46 
+252;Rozmiar:0;46 
 252;Rozmiar:0;47 
 253;Rozmiar:0;37 
 253;Rozmiar:0;38 
@@ -4011,7 +4011,7 @@ Product ID;Attribute (Name:Position);Value
 255;Rozmiar:0;45 
 255;Rozmiar:0;46 
 255;Rozmiar:0;47 
-256;Rozmiar:0;39/40 
+256;Rozmiar:0;39/40  
 256;Rozmiar:0;41/42 
 256;Rozmiar:0;43/44 
 256;Rozmiar:0;45/46 
@@ -4023,7 +4023,7 @@ Product ID;Attribute (Name:Position);Value
 258;Rozmiar:0;37 
 258;Rozmiar:0;38 
 258;Rozmiar:0;39 
-258;Rozmiar:0;40.5 
+258;Rozmiar:0; 40.5 
 258;Rozmiar:0;42 
 258;Rozmiar:0;43 
 258;Rozmiar:0;44.5 
@@ -4038,7 +4038,7 @@ Product ID;Attribute (Name:Position);Value
 259;Rozmiar:0;43 
 259;Rozmiar:0;44.5 
 259;Rozmiar:0;46 
-259;Rozmiar:0;47 
+259;Rozmiar:0;47  
 260;Rozmiar:0;40 
 260;Rozmiar:0;41 
 260;Rozmiar:0;42 
@@ -4085,7 +4085,7 @@ Product ID;Attribute (Name:Position);Value
 265;Rozmiar:0;46 
 265;Rozmiar:0;47.5 
 267;Rozmiar:0;39 
-267;Rozmiar:0;40.5 
+267;Rozmiar:0; 40.5 
 267;Rozmiar:0;42 
 267;Rozmiar:0;43 
 267;Rozmiar:0;44.5 
@@ -4098,7 +4098,7 @@ Product ID;Attribute (Name:Position);Value
 268;Rozmiar:0;43 
 268;Rozmiar:0;44.5 
 268;Rozmiar:0;46 
-268;Rozmiar:0;47  
+268;Rozmiar:0;47 
 269;Rozmiar:0;39 
 269;Rozmiar:0;40.5 
 269;Rozmiar:0;42 
@@ -4121,13 +4121,13 @@ Product ID;Attribute (Name:Position);Value
 271;Rozmiar:0;42 
 271;Rozmiar:0;43 
 271;Rozmiar:0;44 
-271;Rozmiar:0;45 
+271;Rozmiar:0; 45 
 271;Rozmiar:0;46 
 272;Rozmiar:0;40 
 272;Rozmiar:0;41 
 272;Rozmiar:0;42 
 272;Rozmiar:0;43 
-272;Rozmiar:0;44  
+272;Rozmiar:0;44 
 272;Rozmiar:0;45 
 272;Rozmiar:0;46 
 273;Rozmiar:0;40 
@@ -4176,14 +4176,14 @@ Product ID;Attribute (Name:Position);Value
 279;Rozmiar:0;42 
 279;Rozmiar:0;43 
 279;Rozmiar:0;44.5 
-279;Rozmiar:0;46  
+279;Rozmiar:0;46 
 279;Rozmiar:0;47 
 279;Rozmiar:0;48.5 
 279;Rozmiar:0;50 
 280;Rozmiar:0;47 
 281;Rozmiar:0;37 
 281;Rozmiar:0;38 
-281;Rozmiar:0;39 
+281;Rozmiar:0;39  
 281;Rozmiar:0;40.5 
 281;Rozmiar:0;42 
 281;Rozmiar:0;43 
@@ -4200,7 +4200,7 @@ Product ID;Attribute (Name:Position);Value
 282;Rozmiar:0;46 
 282;Rozmiar:0;47 
 282;Rozmiar:0;48.5 
-283;Rozmiar:0; 40 
+283;Rozmiar:0;40 
 283;Rozmiar:0;41 
 283;Rozmiar:0;42.5 
 283;Rozmiar:0;44 
@@ -4250,12 +4250,12 @@ Product ID;Attribute (Name:Position);Value
 291;Rozmiar:0;42.5 
 291;Rozmiar:0;43.5 
 291;Rozmiar:0;45.5 
-291;Rozmiar:0;46.5 
+291;Rozmiar:0; 46.5 
 291;Rozmiar:0;48.5 
 292;Rozmiar:0;36.5 
 292;Rozmiar:0;37.5 
 292;Rozmiar:0;38.5 
-292;Rozmiar:0;39.5 
+292;Rozmiar:0;39.5  
 292;Rozmiar:0;41.5 
 292;Rozmiar:0;42.5 
 292;Rozmiar:0;43.5 
@@ -4265,7 +4265,7 @@ Product ID;Attribute (Name:Position);Value
 294;Rozmiar:0;36 
 294;Rozmiar:0;36 2/3 
 294;Rozmiar:0;37 1/3 
-294;Rozmiar:0;38  
+294;Rozmiar:0; 38 
 294;Rozmiar:0;38 2/3 
 294;Rozmiar:0;39 1/3 
 294;Rozmiar:0;40 
@@ -4308,7 +4308,7 @@ Product ID;Attribute (Name:Position);Value
 295;Rozmiar:0;49 1/3 
 295;Rozmiar:0;50 
 295;Rozmiar:0;50 2/3 
-296;Rozmiar:0;36  
+296;Rozmiar:0;36 
 296;Rozmiar:0;36 2/3 
 296;Rozmiar:0;37 1/3 
 296;Rozmiar:0;38 
@@ -4322,7 +4322,7 @@ Product ID;Attribute (Name:Position);Value
 296;Rozmiar:0;43 1/3 
 296;Rozmiar:0;44 
 296;Rozmiar:0;44 2/3 
-296;Rozmiar:0;45 1/3 
+296;Rozmiar:0; 45 1/3 
 296;Rozmiar:0;46 
 296;Rozmiar:0;46 2/3 
 296;Rozmiar:0;47 1/3 
@@ -4338,7 +4338,7 @@ Product ID;Attribute (Name:Position);Value
 297;Rozmiar:0;38 2/3 
 297;Rozmiar:0;39 1/3 
 297;Rozmiar:0;40 
-297;Rozmiar:0; 40 2/3 
+297;Rozmiar:0;40 2/3 
 297;Rozmiar:0;41 1/3 
 297;Rozmiar:0;42 
 297;Rozmiar:0;42 2/3 
@@ -4359,8 +4359,8 @@ Product ID;Attribute (Name:Position);Value
 299;Rozmiar:0;33 
 299;Rozmiar:0;34 
 299;Rozmiar:0;34.5 
-299;Rozmiar:0; 35 
-299;Rozmiar:0;36 
+299;Rozmiar:0;35 
+299;Rozmiar:0;36  
 299;Rozmiar:0;36.5 
 299;Rozmiar:0;37.5 
 299;Rozmiar:0;38.5 
@@ -4371,7 +4371,7 @@ Product ID;Attribute (Name:Position);Value
 299;Rozmiar:0;42 
 299;Rozmiar:0;42.5 
 299;Rozmiar:0;43 
-299;Rozmiar:0;44 
+299;Rozmiar:0; 44 
 299;Rozmiar:0;44.5 
 299;Rozmiar:0;45 
 299;Rozmiar:0;45.5 
@@ -4399,7 +4399,7 @@ Product ID;Attribute (Name:Position);Value
 301;Rozmiar:0;39 
 301;Rozmiar:0;40 
 301;Rozmiar:0;41 
-302;Rozmiar:0;36 
+302;Rozmiar:0; 36 
 302;Rozmiar:0;36 2/3 
 302;Rozmiar:0;37 1/3 
 302;Rozmiar:0;38 
@@ -4447,7 +4447,7 @@ Product ID;Attribute (Name:Position);Value
 303;Rozmiar:0;53 
 303;Rozmiar:0;53.5 
 303;Rozmiar:0;54 
-303;Rozmiar:0;54.5  
+303;Rozmiar:0;54.5 
 303;Rozmiar:0;55 
 303;Rozmiar:0;55.5 
 303;Rozmiar:0;56 
@@ -4547,7 +4547,7 @@ Product ID;Attribute (Name:Position);Value
 312;Rozmiar:0;48.5 
 312;Rozmiar:0;49 
 312;Rozmiar:0;49.5 
-312;Rozmiar:0; 50 
+312;Rozmiar:0;50 
 312;Rozmiar:0;50.5 
 312;Rozmiar:0;51 
 312;Rozmiar:0;51.5 
@@ -4588,7 +4588,7 @@ Product ID;Attribute (Name:Position);Value
 316;Rozmiar:0;27 
 316;Rozmiar:0;27.5 
 316;Rozmiar:0;28 
-316;Rozmiar:0;28.5 
+316;Rozmiar:0; 28.5 
 316;Rozmiar:0;29 
 316;Rozmiar:0;30 
 316;Rozmiar:0;31 
@@ -4636,7 +4636,7 @@ Product ID;Attribute (Name:Position);Value
 319;Rozmiar:0;37 1/3 
 319;Rozmiar:0;38 
 319;Rozmiar:0;38 2/3 
-319;Rozmiar:0;39 1/3 
+319;Rozmiar:0; 39 1/3 
 319;Rozmiar:0;40 
 320;Rozmiar:0;35 
 320;Rozmiar:0;36 
@@ -4663,7 +4663,7 @@ Product ID;Attribute (Name:Position);Value
 322;Rozmiar:0;37 
 322;Rozmiar:0;37.5 
 322;Rozmiar:0;38 
-322;Rozmiar:0;38.5 
+322;Rozmiar:0;38.5  
 322;Rozmiar:0;40.5 
 322;Rozmiar:0;41 
 324;Rozmiar:0;35 
@@ -4703,7 +4703,7 @@ Product ID;Attribute (Name:Position);Value
 326;Rozmiar:0;17.5 
 326;Rozmiar:0;18 
 326;Rozmiar:0;18.5 
-326;Rozmiar:0; 19 
+326;Rozmiar:0;19 
 326;Rozmiar:0;20 
 326;Rozmiar:0;21 
 326;Rozmiar:0;21.5 
@@ -4750,7 +4750,7 @@ Product ID;Attribute (Name:Position);Value
 329;Rozmiar:0;34.5 
 329;Rozmiar:0;35 
 329;Rozmiar:0;36 
-329;Rozmiar:0; 36.5 
+329;Rozmiar:0;36.5 
 329;Rozmiar:0;37 
 329;Rozmiar:0;38 
 329;Rozmiar:0;38.5 
@@ -4759,7 +4759,7 @@ Product ID;Attribute (Name:Position);Value
 329;Rozmiar:0;40.5 
 329;Rozmiar:0;41 
 329;Rozmiar:0;42 
-329;Rozmiar:0;42.5 
+329;Rozmiar:0; 42.5 
 329;Rozmiar:0;43 
 329;Rozmiar:0;44 
 329;Rozmiar:0;44.5 
@@ -4789,7 +4789,7 @@ Product ID;Attribute (Name:Position);Value
 330;Rozmiar:0;42 1/2 
 330;Rozmiar:0;43 
 331;Rozmiar:0;36 
-331;Rozmiar:0;37 
+331;Rozmiar:0; 37 
 331;Rozmiar:0;38 
 331;Rozmiar:0;39 
 331;Rozmiar:0;40 
@@ -4858,7 +4858,7 @@ Product ID;Attribute (Name:Position);Value
 341;Rozmiar:0;42.5 
 342;Rozmiar:0;32.5 
 342;Rozmiar:0;33 
-342;Rozmiar:0; 33.5 
+342;Rozmiar:0;33.5 
 342;Rozmiar:0;34 
 342;Rozmiar:0;35 
 342;Rozmiar:0;35.5 
@@ -4897,7 +4897,7 @@ Product ID;Attribute (Name:Position);Value
 342;Rozmiar:0;54.5 
 342;Rozmiar:0;55 
 342;Rozmiar:0;55.5 
-342;Rozmiar:0;56 
+342;Rozmiar:0;56  
 342;Rozmiar:0;56.5 
 343;Rozmiar:0;35 
 343;Rozmiar:0;36 
@@ -4943,7 +4943,7 @@ Product ID;Attribute (Name:Position);Value
 349;Rozmiar:0;44 2/3 
 349;Rozmiar:0;45 1/3 
 349;Rozmiar:0;46 
-349;Rozmiar:0;46 2/3 
+349;Rozmiar:0;46 2/3  
 349;Rozmiar:0;47 1/3 
 350;Rozmiar:0;34.5 
 350;Rozmiar:0;35 
@@ -4956,7 +4956,7 @@ Product ID;Attribute (Name:Position);Value
 350;Rozmiar:0;40 
 350;Rozmiar:0;40.5 
 350;Rozmiar:0;41 
-350;Rozmiar:0; 42 
+350;Rozmiar:0;42 
 350;Rozmiar:0;42.5 
 350;Rozmiar:0;43 
 350;Rozmiar:0;44 
@@ -5087,7 +5087,7 @@ Product ID;Attribute (Name:Position);Value
 361;Rozmiar:0;41 
 361;Rozmiar:0;41.5 
 361;Rozmiar:0;42.5 
-362;Rozmiar:0;35.5  
+362;Rozmiar:0;35.5 
 362;Rozmiar:0;36 
 362;Rozmiar:0;37 
 362;Rozmiar:0;37.5 
@@ -5098,7 +5098,7 @@ Product ID;Attribute (Name:Position);Value
 362;Rozmiar:0;40.5 
 362;Rozmiar:0;41 
 362;Rozmiar:0;42 
-362;Rozmiar:0; 42.5 
+362;Rozmiar:0;42.5 
 363;Rozmiar:0;36 
 363;Rozmiar:0;37 
 363;Rozmiar:0;38 
@@ -5192,7 +5192,7 @@ Product ID;Attribute (Name:Position);Value
 368;Rozmiar:0;38.5 
 368;Rozmiar:0;39.5 
 368;Rozmiar:0;40 
-368;Rozmiar:0;40.5  
+368;Rozmiar:0;40.5 
 368;Rozmiar:0;41.5 
 368;Rozmiar:0;42 
 368;Rozmiar:0;42.5 
@@ -5213,7 +5213,7 @@ Product ID;Attribute (Name:Position);Value
 369;Rozmiar:0;40 2/3 
 369;Rozmiar:0;41 1/3 
 369;Rozmiar:0;42 
-369;Rozmiar:0;42 2/3  
+369;Rozmiar:0;42 2/3 
 369;Rozmiar:0;43 1/3 
 369;Rozmiar:0;44 
 369;Rozmiar:0;44 2/3 
@@ -5299,7 +5299,7 @@ Product ID;Attribute (Name:Position);Value
 375;Rozmiar:0;38 
 375;Rozmiar:0;39 
 375;Rozmiar:0;40 
-375;Rozmiar:0; 41 
+375;Rozmiar:0;41 
 376;Rozmiar:0;35 
 376;Rozmiar:0;36 
 376;Rozmiar:0;37 
@@ -5313,7 +5313,7 @@ Product ID;Attribute (Name:Position);Value
 378;Rozmiar:0;40 
 378;Rozmiar:0;41 
 379;Rozmiar:0;36 
-379;Rozmiar:0; 37 
+379;Rozmiar:0;37 
 379;Rozmiar:0;38 
 379;Rozmiar:0;39 
 379;Rozmiar:0;40 
@@ -5324,7 +5324,7 @@ Product ID;Attribute (Name:Position);Value
 380;Rozmiar:0;40 
 380;Rozmiar:0;41 
 380;Rozmiar:0;42 
-382;Rozmiar:0; 36 
+382;Rozmiar:0;36 
 382;Rozmiar:0;37 
 382;Rozmiar:0;38 
 382;Rozmiar:0;39 
@@ -5360,7 +5360,7 @@ Product ID;Attribute (Name:Position);Value
 388;Rozmiar:0;40 
 390;Rozmiar:0;36 
 390;Rozmiar:0;37 
-390;Rozmiar:0;38 
+390;Rozmiar:0; 38 
 390;Rozmiar:0;39 
 390;Rozmiar:0;40 
 391;Rozmiar:0;35 
@@ -5457,7 +5457,7 @@ Product ID;Attribute (Name:Position);Value
 401;Rozmiar:0;53 
 401;Rozmiar:0;53.5 
 401;Rozmiar:0;54 
-401;Rozmiar:0;54.5 
+401;Rozmiar:0; 54.5 
 401;Rozmiar:0;55 
 401;Rozmiar:0;55.5 
 401;Rozmiar:0;56 
@@ -5488,7 +5488,7 @@ Product ID;Attribute (Name:Position);Value
 403;Rozmiar:0;44 
 403;Rozmiar:0;44.5 
 403;Rozmiar:0;45 
-403;Rozmiar:0;45.5 
+403;Rozmiar:0; 45.5 
 403;Rozmiar:0;46 
 403;Rozmiar:0;47 
 403;Rozmiar:0;47.5 
@@ -5609,7 +5609,7 @@ Product ID;Attribute (Name:Position);Value
 408;Rozmiar:0;35 
 408;Rozmiar:0;36 
 408;Rozmiar:0;36.5 
-408;Rozmiar:0;37  
+408;Rozmiar:0;37 
 408;Rozmiar:0;37.5 
 408;Rozmiar:0;38 
 408;Rozmiar:0;39 
@@ -5681,7 +5681,7 @@ Product ID;Attribute (Name:Position);Value
 410;Rozmiar:0;47 1/3 
 411;Rozmiar:0;32.5 
 411;Rozmiar:0;33 
-411;Rozmiar:0;33.5  
+411;Rozmiar:0;33.5 
 411;Rozmiar:0;34 
 411;Rozmiar:0;35 
 411;Rozmiar:0;35.5 
@@ -5692,7 +5692,7 @@ Product ID;Attribute (Name:Position);Value
 411;Rozmiar:0;38.5 
 411;Rozmiar:0;39 
 411;Rozmiar:0;40 
-411;Rozmiar:0; 40.5 
+411;Rozmiar:0;40.5 
 411;Rozmiar:0;41 
 411;Rozmiar:0;42 
 411;Rozmiar:0;42.5 
@@ -5788,7 +5788,7 @@ Product ID;Attribute (Name:Position);Value
 418;Rozmiar:0;40 
 418;Rozmiar:0;40.5 
 418;Rozmiar:0;41 
-418;Rozmiar:0;42 
+418;Rozmiar:0;42  
 418;Rozmiar:0;42.5 
 418;Rozmiar:0;43 
 418;Rozmiar:0;44 
@@ -5799,7 +5799,7 @@ Product ID;Attribute (Name:Position);Value
 418;Rozmiar:0;47 
 418;Rozmiar:0;47.5 
 418;Rozmiar:0;48 
-418;Rozmiar:0;48.5 
+418;Rozmiar:0; 48.5 
 418;Rozmiar:0;49 
 418;Rozmiar:0;49.5 
 418;Rozmiar:0;50 
@@ -5880,8 +5880,8 @@ Product ID;Attribute (Name:Position);Value
 421;Rozmiar:0;42 
 422;Rozmiar:0;36 
 422;Rozmiar:0;36 2/3 
-422;Rozmiar:0;37 1/3 
-422;Rozmiar:0; 38 
+422;Rozmiar:0; 37 1/3 
+422;Rozmiar:0;38 
 422;Rozmiar:0;38 2/3 
 422;Rozmiar:0;39 1/3 
 422;Rozmiar:0;40 
@@ -5943,8 +5943,8 @@ Product ID;Attribute (Name:Position);Value
 430;Rozmiar:0;38 
 430;Rozmiar:0;38.5 
 430;Rozmiar:0;39 
-430;Rozmiar:0; 39.5 
-430;Rozmiar:0;40 
+430;Rozmiar:0;39.5 
+430;Rozmiar:0; 40 
 430;Rozmiar:0;40.5 
 430;Rozmiar:0;41 
 430;Rozmiar:0;41.5 
@@ -5967,11 +5967,11 @@ Product ID;Attribute (Name:Position);Value
 434;Rozmiar:0;37 
 434;Rozmiar:0;38 
 434;Rozmiar:0;39 
-434;Rozmiar:0; 42 
-435;Rozmiar:0;35 
+434;Rozmiar:0;42 
+435;Rozmiar:0; 35 
 435;Rozmiar:0;36 
 435;Rozmiar:0;36.5 
-435;Rozmiar:0;37  
+435;Rozmiar:0;37 
 435;Rozmiar:0;37.5 
 435;Rozmiar:0;38 
 435;Rozmiar:0;39 
@@ -6132,7 +6132,7 @@ Product ID;Attribute (Name:Position);Value
 442;Rozmiar:0;30 
 442;Rozmiar:0;31 
 442;Rozmiar:0;32 
-442;Rozmiar:0;33  
+442;Rozmiar:0;33 
 442;Rozmiar:0;34 
 442;Rozmiar:0;35 
 442;Rozmiar:0;36 
@@ -6148,7 +6148,7 @@ Product ID;Attribute (Name:Position);Value
 443;Rozmiar:0;39 
 443;Rozmiar:0;40 
 443;Rozmiar:0;40.5 
-443;Rozmiar:0;41  
+443;Rozmiar:0;41 
 443;Rozmiar:0;42 
 443;Rozmiar:0;42.5 
 443;Rozmiar:0;43 
@@ -6159,12 +6159,12 @@ Product ID;Attribute (Name:Position);Value
 443;Rozmiar:0;47 
 443;Rozmiar:0;48 
 443;Rozmiar:0;49 
-443;Rozmiar:0; 50 
+443;Rozmiar:0;50 
 444;Rozmiar:0;32.5 
 444;Rozmiar:0;33 
 444;Rozmiar:0;33.5 
 444;Rozmiar:0;34 
-444;Rozmiar:0; 35 
+444;Rozmiar:0;35 
 444;Rozmiar:0;35.5 
 444;Rozmiar:0;36 
 444;Rozmiar:0;36.5 
@@ -6218,7 +6218,7 @@ Product ID;Attribute (Name:Position);Value
 445;Rozmiar:0;42.5 
 445;Rozmiar:0;43 
 445;Rozmiar:0;43.5 
-445;Rozmiar:0;44.5  
+445;Rozmiar:0;44.5 
 445;Rozmiar:0;46 
 445;Rozmiar:0;47 
 446;Rozmiar:0;35 
@@ -6264,7 +6264,7 @@ Product ID;Attribute (Name:Position);Value
 448;Rozmiar:0;44 
 448;Rozmiar:0;44.5 
 448;Rozmiar:0;45 
-448;Rozmiar:0;45.5 
+448;Rozmiar:0;45.5  
 448;Rozmiar:0;46 
 448;Rozmiar:0;47 
 448;Rozmiar:0;48 
@@ -6276,7 +6276,7 @@ Product ID;Attribute (Name:Position);Value
 449;Rozmiar:0;32.5 
 449;Rozmiar:0;33 
 449;Rozmiar:0;33.5 
-449;Rozmiar:0;34 
+449;Rozmiar:0;34  
 449;Rozmiar:0;35 
 449;Rozmiar:0;35.5 
 449;Rozmiar:0;36 
@@ -6287,7 +6287,7 @@ Product ID;Attribute (Name:Position);Value
 449;Rozmiar:0;39 
 449;Rozmiar:0;40 
 449;Rozmiar:0;40.5 
-449;Rozmiar:0;41 
+449;Rozmiar:0; 41 
 449;Rozmiar:0;42 
 449;Rozmiar:0;42.5 
 449;Rozmiar:0;43 
@@ -6324,7 +6324,7 @@ Product ID;Attribute (Name:Position);Value
 450;Rozmiar:0;38.5 
 450;Rozmiar:0;39 
 450;Rozmiar:0;40 
-450;Rozmiar:0;40.5  
+450;Rozmiar:0;40.5 
 450;Rozmiar:0;41 
 450;Rozmiar:0;42 
 450;Rozmiar:0;42.5 
@@ -6368,14 +6368,14 @@ Product ID;Attribute (Name:Position);Value
 452;Rozmiar:0;42.5 
 452;Rozmiar:0;43 
 452;Rozmiar:0;44 
-452;Rozmiar:0;44.5 
+452;Rozmiar:0;44.5  
 452;Rozmiar:0;45 
 452;Rozmiar:0;46 
 452;Rozmiar:0;46.5 
 452;Rozmiar:0;48 
 453;Rozmiar:0;35 
 453;Rozmiar:0;36 
-453;Rozmiar:0;36.5 
+453;Rozmiar:0; 36.5 
 453;Rozmiar:0;37 
 453;Rozmiar:0;37.5 
 453;Rozmiar:0;38 
@@ -6470,7 +6470,7 @@ Product ID;Attribute (Name:Position);Value
 456;Rozmiar:0;39 1/3 
 456;Rozmiar:0;40 
 456;Rozmiar:0;40 2/3 
-457;Rozmiar:0; 32.5 
+457;Rozmiar:0;32.5 
 457;Rozmiar:0;33 
 457;Rozmiar:0;33.5 
 457;Rozmiar:0;34 
@@ -6496,7 +6496,7 @@ Product ID;Attribute (Name:Position);Value
 457;Rozmiar:0;47 
 457;Rozmiar:0;47.5 
 457;Rozmiar:0;48 
-457;Rozmiar:0;48.5 
+457;Rozmiar:0;48.5  
 457;Rozmiar:0;49 
 457;Rozmiar:0;49.5 
 457;Rozmiar:0;50 
@@ -6507,7 +6507,7 @@ Product ID;Attribute (Name:Position);Value
 457;Rozmiar:0;52.5 
 457;Rozmiar:0;53 
 457;Rozmiar:0;53.5 
-457;Rozmiar:0;54 
+457;Rozmiar:0; 54 
 457;Rozmiar:0;54.5 
 457;Rozmiar:0;55 
 457;Rozmiar:0;55.5 
@@ -6606,11 +6606,11 @@ Product ID;Attribute (Name:Position);Value
 460;Rozmiar:0;38 2/3 
 460;Rozmiar:0;39 1/3 
 460;Rozmiar:0;40 
-460;Rozmiar:0;40 2/3 
+460;Rozmiar:0; 40 2/3 
 460;Rozmiar:0;41 1/3 
 460;Rozmiar:0;42 
 461;Rozmiar:0;36 
-461;Rozmiar:0;36 2/3  
+461;Rozmiar:0;36 2/3 
 461;Rozmiar:0;37 1/3 
 461;Rozmiar:0;38 
 461;Rozmiar:0;38 2/3 
@@ -6634,7 +6634,7 @@ Product ID;Attribute (Name:Position);Value
 464;Rozmiar:0;38 2/3 
 464;Rozmiar:0;39 1/3 
 464;Rozmiar:0;40 
-464;Rozmiar:0;40 2/3  
+464;Rozmiar:0;40 2/3 
 464;Rozmiar:0;41 1/3 
 464;Rozmiar:0;42 
 465;Rozmiar:0;36 
@@ -6735,8 +6735,8 @@ Product ID;Attribute (Name:Position);Value
 476;Rozmiar:0;45 
 476;Rozmiar:0;46 
 476;Rozmiar:0;47 
-477;Rozmiar:0;35  
-477;Rozmiar:0;36 
+477;Rozmiar:0;35 
+477;Rozmiar:0; 36 
 477;Rozmiar:0;36.5 
 477;Rozmiar:0;37 
 477;Rozmiar:0;37.5 
@@ -6746,7 +6746,7 @@ Product ID;Attribute (Name:Position);Value
 477;Rozmiar:0;40 
 477;Rozmiar:0;41 
 477;Rozmiar:0;41.5 
-477;Rozmiar:0; 42 
+477;Rozmiar:0;42 
 479;Rozmiar:0;35 
 479;Rozmiar:0;36 
 479;Rozmiar:0;36.5 
@@ -6765,7 +6765,7 @@ Product ID;Attribute (Name:Position);Value
 479;Rozmiar:0;44.5 
 479;Rozmiar:0;45 
 479;Rozmiar:0;46 
-479;Rozmiar:0;46.5  
+479;Rozmiar:0;46.5 
 479;Rozmiar:0;48 
 480;Rozmiar:0;36 
 480;Rozmiar:0;36.5 
@@ -6841,7 +6841,7 @@ Product ID;Attribute (Name:Position);Value
 483;Rozmiar:0;40 
 483;Rozmiar:0;40.5 
 483;Rozmiar:0;41 
-483;Rozmiar:0;41.5  
+483;Rozmiar:0;41.5 
 483;Rozmiar:0;42.5 
 484;Rozmiar:0;36 
 484;Rozmiar:0;37 
@@ -6940,7 +6940,7 @@ Product ID;Attribute (Name:Position);Value
 487;Rozmiar:0;42.5 
 487;Rozmiar:0;43 
 487;Rozmiar:0;44 
-487;Rozmiar:0;44.5  
+487;Rozmiar:0;44.5 
 487;Rozmiar:0;45 
 487;Rozmiar:0;45.5 
 487;Rozmiar:0;46 
@@ -6951,7 +6951,7 @@ Product ID;Attribute (Name:Position);Value
 487;Rozmiar:0;49 
 487;Rozmiar:0;49.5 
 487;Rozmiar:0;50 
-487;Rozmiar:0; 50.5 
+487;Rozmiar:0;50.5 
 487;Rozmiar:0;51 
 487;Rozmiar:0;51.5 
 487;Rozmiar:0;52 
@@ -6996,7 +6996,7 @@ Product ID;Attribute (Name:Position);Value
 488;Rozmiar:0;36 2/3 
 488;Rozmiar:0;37 1/3 
 488;Rozmiar:0;38 
-488;Rozmiar:0;38 2/3  
+488;Rozmiar:0;38 2/3 
 488;Rozmiar:0;39 1/3 
 488;Rozmiar:0;40 
 488;Rozmiar:0;40 2/3 
@@ -7051,7 +7051,7 @@ Product ID;Attribute (Name:Position);Value
 491;Rozmiar:0;36.5 
 491;Rozmiar:0;37 
 491;Rozmiar:0;37.5 
-491;Rozmiar:0;38 
+491;Rozmiar:0;38  
 491;Rozmiar:0;39 
 491;Rozmiar:0;39.5 
 491;Rozmiar:0;40 
@@ -7062,7 +7062,7 @@ Product ID;Attribute (Name:Position);Value
 491;Rozmiar:0;43 
 491;Rozmiar:0;44 
 491;Rozmiar:0;44.5 
-491;Rozmiar:0;45 
+491;Rozmiar:0; 45 
 491;Rozmiar:0;46 
 491;Rozmiar:0;46.5 
 491;Rozmiar:0;48 
@@ -7078,7 +7078,7 @@ Product ID;Attribute (Name:Position);Value
 492;Rozmiar:0;41 
 493;Rozmiar:0;16 
 493;Rozmiar:0;17 
-493;Rozmiar:0;18  
+493;Rozmiar:0;18 
 493;Rozmiar:0;19 
 493;Rozmiar:0;20 
 493;Rozmiar:0;21 
@@ -7089,7 +7089,7 @@ Product ID;Attribute (Name:Position);Value
 493;Rozmiar:0;25 
 493;Rozmiar:0;25.5 
 493;Rozmiar:0;26 
-493;Rozmiar:0; 26.5 
+493;Rozmiar:0;26.5 
 493;Rozmiar:0;27 
 493;Rozmiar:0;28 
 493;Rozmiar:0;28.5 
@@ -7098,7 +7098,7 @@ Product ID;Attribute (Name:Position);Value
 493;Rozmiar:0;30.5 
 493;Rozmiar:0;31 
 493;Rozmiar:0;31.5 
-493;Rozmiar:0;32 
+493;Rozmiar:0; 32 
 493;Rozmiar:0;33 
 493;Rozmiar:0;33.5 
 493;Rozmiar:0;34 
@@ -7168,7 +7168,7 @@ Product ID;Attribute (Name:Position);Value
 496;Rozmiar:0;30.5 
 496;Rozmiar:0;31 
 496;Rozmiar:0;32 
-496;Rozmiar:0;32.5 
+496;Rozmiar:0; 32.5 
 496;Rozmiar:0;33 
 496;Rozmiar:0;33.5 
 496;Rozmiar:0;34.5 
@@ -7182,7 +7182,7 @@ Product ID;Attribute (Name:Position);Value
 496;Rozmiar:0;39 
 496;Rozmiar:0;40 
 497;Rozmiar:0;32.5 
-497;Rozmiar:0;33 
+497;Rozmiar:0; 33 
 497;Rozmiar:0;33.5 
 497;Rozmiar:0;34 
 497;Rozmiar:0;35 
@@ -7245,7 +7245,7 @@ Product ID;Attribute (Name:Position);Value
 499;Rozmiar:0;40.5 
 499;Rozmiar:0;41.5 
 499;Rozmiar:0;42 
-500;Rozmiar:0; 36 
+500;Rozmiar:0;36 
 500;Rozmiar:0;37 
 500;Rozmiar:0;37.5 
 500;Rozmiar:0;38 
@@ -7271,7 +7271,7 @@ Product ID;Attribute (Name:Position);Value
 506;Rozmiar:0;39 
 506;Rozmiar:0;40 
 506;Rozmiar:0;41 
-506;Rozmiar:0;42 
+506;Rozmiar:0;42  
 508;Rozmiar:0;35 
 508;Rozmiar:0;36 
 508;Rozmiar:0;37 
@@ -7283,7 +7283,7 @@ Product ID;Attribute (Name:Position);Value
 509;Rozmiar:0;38 
 509;Rozmiar:0;39 
 509;Rozmiar:0;42 
-510;Rozmiar:0; 35 
+510;Rozmiar:0;35 
 510;Rozmiar:0;36 
 510;Rozmiar:0;37 
 510;Rozmiar:0;38 
@@ -7301,7 +7301,7 @@ Product ID;Attribute (Name:Position);Value
 511;Rozmiar:0;39 
 511;Rozmiar:0;40 
 511;Rozmiar:0;41 
-513;Rozmiar:0;35.5  
+513;Rozmiar:0;35.5 
 513;Rozmiar:0;37 
 513;Rozmiar:0;38 
 513;Rozmiar:0;39 
@@ -7328,7 +7328,7 @@ Product ID;Attribute (Name:Position);Value
 517;Rozmiar:0;35 
 517;Rozmiar:0;36 
 517;Rozmiar:0;37 
-517;Rozmiar:0;38 
+517;Rozmiar:0; 38 
 517;Rozmiar:0;39 
 517;Rozmiar:0;40 
 517;Rozmiar:0;41 
@@ -7359,18 +7359,18 @@ Product ID;Attribute (Name:Position);Value
 526;Rozmiar:0;38 
 526;Rozmiar:0;39 
 526;Rozmiar:0;40 
-526;Rozmiar:0;41 
+526;Rozmiar:0; 41 
 527;Rozmiar:0;35 
 527;Rozmiar:0;36 
 527;Rozmiar:0;37 
-527;Rozmiar:0;38 
+527;Rozmiar:0; 38 
 527;Rozmiar:0;39 
 527;Rozmiar:0;40 
 527;Rozmiar:0;41 
 529;Rozmiar:0;36 
 529;Rozmiar:0;37 
 529;Rozmiar:0;38 
-529;Rozmiar:0;39  
+529;Rozmiar:0;39 
 529;Rozmiar:0;40 
 531;Rozmiar:0;36 
 531;Rozmiar:0;37 
@@ -7454,13 +7454,13 @@ Product ID;Attribute (Name:Position);Value
 541;Rozmiar:0;37 
 541;Rozmiar:0;38 
 541;Rozmiar:0;39 
-541;Rozmiar:0;40 
+541;Rozmiar:0; 40 
 541;Rozmiar:0;41 
 541;Rozmiar:0;42 
 542;Rozmiar:0;35 
 542;Rozmiar:0;36 
 542;Rozmiar:0;37 
-542;Rozmiar:0; 38 
+542;Rozmiar:0;38 
 542;Rozmiar:0;39 
 542;Rozmiar:0;40 
 542;Rozmiar:0;41 
@@ -7468,7 +7468,7 @@ Product ID;Attribute (Name:Position);Value
 543;Rozmiar:0;35 
 543;Rozmiar:0;36 
 543;Rozmiar:0;37 
-543;Rozmiar:0; 38 
+543;Rozmiar:0;38 
 543;Rozmiar:0;39 
 543;Rozmiar:0;40 
 543;Rozmiar:0;41 
@@ -7500,7 +7500,7 @@ Product ID;Attribute (Name:Position);Value
 547;Rozmiar:0;39 
 547;Rozmiar:0;40 
 547;Rozmiar:0;41 
-547;Rozmiar:0; 42 
+547;Rozmiar:0;42 
 549;Rozmiar:0;35.5 
 549;Rozmiar:0;36 1/3 
 549;Rozmiar:0;37 
@@ -7558,7 +7558,7 @@ Product ID;Attribute (Name:Position);Value
 556;Rozmiar:0;38 
 556;Rozmiar:0;39 
 556;Rozmiar:0;40 
-556;Rozmiar:0; 41 
+556;Rozmiar:0;41 
 557;Rozmiar:0;31 
 557;Rozmiar:0;32 
 557;Rozmiar:0;33.5 
@@ -7606,7 +7606,7 @@ Product ID;Attribute (Name:Position);Value
 564;Rozmiar:0;39 
 564;Rozmiar:0;40 
 564;Rozmiar:0;41 
-565;Rozmiar:0;36 
+565;Rozmiar:0;36  
 565;Rozmiar:0;37 
 565;Rozmiar:0;38 
 565;Rozmiar:0;39 
@@ -7615,7 +7615,7 @@ Product ID;Attribute (Name:Position);Value
 566;Rozmiar:0;37 
 566;Rozmiar:0;38 
 566;Rozmiar:0;39 
-566;Rozmiar:0;40 
+566;Rozmiar:0; 40 
 566;Rozmiar:0;41 
 567;Rozmiar:0;36 
 567;Rozmiar:0;37 
@@ -7649,7 +7649,7 @@ Product ID;Attribute (Name:Position);Value
 571;Rozmiar:0;38 
 571;Rozmiar:0;38.5 
 571;Rozmiar:0;39 
-571;Rozmiar:0;39.5 
+571;Rozmiar:0;39.5  
 571;Rozmiar:0;40 
 571;Rozmiar:0;40.5 
 571;Rozmiar:0;41 
@@ -7658,7 +7658,7 @@ Product ID;Attribute (Name:Position);Value
 571;Rozmiar:0;42.5 
 572;Rozmiar:0;34 
 572;Rozmiar:0;34.5 
-572;Rozmiar:0;35  
+572;Rozmiar:0;35 
 572;Rozmiar:0;35.5 
 572;Rozmiar:0;36 
 572;Rozmiar:0;36.5 
@@ -7669,7 +7669,7 @@ Product ID;Attribute (Name:Position);Value
 572;Rozmiar:0;39 
 572;Rozmiar:0;39.5 
 572;Rozmiar:0;40 
-572;Rozmiar:0; 40.5 
+572;Rozmiar:0;40.5 
 572;Rozmiar:0;41 
 572;Rozmiar:0;41.5 
 572;Rozmiar:0;42 
@@ -7677,7 +7677,7 @@ Product ID;Attribute (Name:Position);Value
 573;Rozmiar:0;34 
 573;Rozmiar:0;34.5 
 573;Rozmiar:0;35 
-573;Rozmiar:0; 35.5 
+573;Rozmiar:0;35.5 
 573;Rozmiar:0;36 
 573;Rozmiar:0;36.5 
 573;Rozmiar:0;37 
@@ -7692,7 +7692,7 @@ Product ID;Attribute (Name:Position);Value
 573;Rozmiar:0;41.5 
 573;Rozmiar:0;42 
 573;Rozmiar:0;42.5 
-574;Rozmiar:0;34 
+574;Rozmiar:0;34  
 574;Rozmiar:0;34.5 
 574;Rozmiar:0;35 
 574;Rozmiar:0;35.5 
@@ -7703,7 +7703,7 @@ Product ID;Attribute (Name:Position);Value
 574;Rozmiar:0;38 
 574;Rozmiar:0;38.5 
 574;Rozmiar:0;39 
-574;Rozmiar:0;39.5 
+574;Rozmiar:0; 39.5 
 574;Rozmiar:0;40 
 574;Rozmiar:0;40.5 
 574;Rozmiar:0;41 
@@ -7754,7 +7754,7 @@ Product ID;Attribute (Name:Position);Value
 579;Rozmiar:0;42 
 579;Rozmiar:0;43 
 580;Rozmiar:0;35 
-580;Rozmiar:0;36 
+580;Rozmiar:0; 36 
 580;Rozmiar:0;37 
 580;Rozmiar:0;38 
 580;Rozmiar:0;39 
@@ -7776,7 +7776,7 @@ Product ID;Attribute (Name:Position);Value
 581;Rozmiar:0;43 
 582;Rozmiar:0;35 
 582;Rozmiar:0;36 
-582;Rozmiar:0; 37 
+582;Rozmiar:0;37 
 582;Rozmiar:0;38 
 582;Rozmiar:0;39 
 582;Rozmiar:0;40 
@@ -7802,7 +7802,7 @@ Product ID;Attribute (Name:Position);Value
 585;Rozmiar:0;37-38 
 585;Rozmiar:0;38-39 
 585;Rozmiar:0;39-40 
-585;Rozmiar:0;41-42  
+585;Rozmiar:0;41-42 
 585;Rozmiar:0;42-43 
 586;Rozmiar:0;36 
 586;Rozmiar:0;37 
@@ -7858,14 +7858,14 @@ Product ID;Attribute (Name:Position);Value
 592;Rozmiar:0;40 
 592;Rozmiar:0;41 
 593;Rozmiar:0;35.5 
-593;Rozmiar:0;37  
+593;Rozmiar:0; 37 
 593;Rozmiar:0;38 
 593;Rozmiar:0;39 
 593;Rozmiar:0;42 
 594;Rozmiar:0;35 
 594;Rozmiar:0;36 
 594;Rozmiar:0;37 
-594;Rozmiar:0; 38 
+594;Rozmiar:0;38 
 594;Rozmiar:0;39 
 594;Rozmiar:0;40 
 594;Rozmiar:0;41 
@@ -7886,7 +7886,7 @@ Product ID;Attribute (Name:Position);Value
 596;Rozmiar:0;40 
 596;Rozmiar:0;41 
 596;Rozmiar:0;42 
-597;Rozmiar:0;36  
+597;Rozmiar:0;36 
 597;Rozmiar:0;37 
 597;Rozmiar:0;38 
 597;Rozmiar:0;39 
@@ -7906,10 +7906,10 @@ Product ID;Attribute (Name:Position);Value
 599;Rozmiar:0;40 
 599;Rozmiar:0;41 
 599;Rozmiar:0;42 
-600;Rozmiar:0; 36 
+600;Rozmiar:0;36 
 600;Rozmiar:0;37 
 600;Rozmiar:0;38 
-600;Rozmiar:0;39 
+600;Rozmiar:0; 39 
 600;Rozmiar:0;40 
 600;Rozmiar:0;41 
 600;Rozmiar:0;42 

@@ -19,12 +19,11 @@ def import_data(urls_list, category, prod_id):
         photo_src = 'http:' + photo_html.find('img')['src']
 
         if soup.find('div', attrs={"class": "e-product-price__special"}):                                                               # jeśli produkt nie posiada ceny przecenionej, to brana jest bez przeceny
-            price = soup.find('div', attrs={"class": "e-product-price__special"}).text
+            price = soup.find('div', attrs={"class": "e-product-price__special"}).text[:-3].replace('\n', '').replace('"', '')
         elif soup.find('div', attrs={"class": "e-product-price__normal"}):
-            price = soup.find('div', attrs={"class": "e-product-price__normal"}).text
+            price = soup.find('div', attrs={"class": "e-product-price__normal"}).text[:-3].replace('\n', '').replace('"', '')
         else:
-            price = '99999'
-
+            price = '450'
         name_list = soup.find('div', attrs={"class": "e-product-name"}).text.split('\n')                                                # pobranie całego bloku tekstu i wydzielenie z niego nazwy i modelu przedmiotu
         name = name_list[1]
         model = name_list[3]
@@ -33,7 +32,7 @@ def import_data(urls_list, category, prod_id):
         sizes = soup.select('td.size-table__cell.size-table__cell--bold')                                                   # pobranie rozmiarów i zapisanie ich do innego pliku
         for size in sizes:
             sizes_writer.writerow([prod_id, 'Rozmiar:0', size.text.replace('\n', '')])
-        product_data = [prod_id, name, brand, model, category, description, photo_src]
+        product_data = [prod_id, name, brand, model, category, description, price, photo_src]
         products_writer.writerow(product_data)
         prod_id = prod_id + 1
     return prod_id
@@ -49,9 +48,9 @@ sportowe_damskie_urls = find_products_urls('https://www.eobuwie.com.pl/damskie/s
 lacze_damskie_urls = find_products_urls('https://www.eobuwie.com.pl/damskie/klapki-i-sandaly.html')
 
 products_list = []
-products_file = open('products.csv', 'w', newline='')
+products_file = open('products.csv', 'w', newline='', encoding='utf-8')
 products_writer = csv.writer(products_file, delimiter=';')
-sizes_file = open('sizes.csv', 'w', newline='')
+sizes_file = open('sizes.csv', 'w', newline='', encoding='utf-8')
 sizes_writer = csv.writer(sizes_file, delimiter=';')
 
 products_writer.writerow(['ID', 'Nazwa', 'Marka', 'Model', 'Kategoria', 'Opis', 'Cena', 'URL_zdjecia'])
