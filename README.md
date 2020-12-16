@@ -43,10 +43,10 @@ eCommerce project done for academic classes
 
 ## Dump Prestashop database to file
 ```
-docker exec some-mysql /usr/bin/mysqldump -u root --password=admin prestashop > dbdump.sql
+docker exec eshoe-shop_some-mysql_1 /usr/bin/mysqldump -u root --password=admin prestashop > ./db/dbdump.sql
 ```
 
 ## Restore Prestashop database from file
 ```
-docker exec -i eshoe-shop_some-mysql mysql -uroot -padmin prestashop < ./db/dbdump.sql
+docker exec -i eshoe-shop_some-mysql_1 mysql -uroot -padmin prestashop < ./db/dbdump.sql
 ```
