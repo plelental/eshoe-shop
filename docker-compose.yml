@@ -4,6 +4,7 @@ services:
     image: prestashop/prestashop
     ports:
       - 8080:80
+      - 443:443
     depends_on:
       - some-mysql
     volumes:
@@ -15,9 +16,11 @@ services:
       - DB_PASSWD=admin
       - DB_NAME=prestashop
       - PS_INSTALL_AUTO=0
+      - PS_ENABLE_SSL=1
 
   some-mysql:
     image: mysql:5.7
     environment:
       - MYSQL_ROOT_PASSWORD=admin
       - MYSQL_DATABASE=prestashop
+      
