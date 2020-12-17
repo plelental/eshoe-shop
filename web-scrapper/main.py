@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
+import random
 
 
 def find_products_urls(url):
@@ -16,7 +17,7 @@ def import_data(urls_list, category, prod_id):
         response = requests.get(url)
         soup = BeautifulSoup(response.text, features='html.parser')
         photo_html = soup.find('div', attrs={"class": "product-image-gallery__main-item"})
-        photo_src = 'http:' + photo_html.find('img')['src']
+        photo_src = 'https:' + photo_html.find('img')['src']
 
         if soup.find('div', attrs={"class": "e-product-price__special"}):                                                               # jeśli produkt nie posiada ceny przecenionej, to brana jest bez przeceny
             price = soup.find('div', attrs={"class": "e-product-price__special"}).text[:-3].replace('\n', '').replace('"', '')
@@ -31,7 +32,7 @@ def import_data(urls_list, category, prod_id):
         description = soup.find('div', attrs={"class": "e-product-description__content"}).text.replace('\n', '').replace('"', '')
         sizes = soup.select('td.size-table__cell.size-table__cell--bold')                                                   # pobranie rozmiarów i zapisanie ich do innego pliku
         for size in sizes:
-            sizes_writer.writerow([prod_id, 'Rozmiar:0', size.text.replace('\n', '')])
+            sizes_writer.writerow([prod_id, 'Rozmiar:rozmiar:0', size.text.replace('\n', ''), random.randint(0, 100)])
         product_data = [prod_id, name, brand, model, category, description, price, photo_src]
         products_writer.writerow(product_data)
         prod_id = prod_id + 1
@@ -54,15 +55,15 @@ sizes_file = open('sizes.csv', 'w', newline='', encoding='utf-8')
 sizes_writer = csv.writer(sizes_file, delimiter=';')
 
 products_writer.writerow(['ID', 'Nazwa', 'Marka', 'Model', 'Kategoria', 'Opis', 'Cena', 'URL_zdjecia'])
-sizes_writer.writerow(['Product ID', 'Attribute (Name:Position)', 'Value'])
+sizes_writer.writerow(['Product ID', 'Attribute (Name:Position)', 'Value', 'Quantity'])
 
 
-product_id = import_data(polbuty_meskie_urls, 'Półbuty męskie', product_id)
-product_id = import_data(sportowe_meskie_urls, 'Sportowe męskie', product_id)
-product_id = import_data(lacze_meskie_urls, 'Klapki i sandały męskie', product_id)
-product_id = import_data(polbuty_damskie_urls, 'Półbuty damskie', product_id)
-product_id = import_data(sportowe_damskie_urls, 'Sportowe damskie', product_id)
-product_id = import_data(lacze_damskie_urls, 'Klapki i sandały damskie', product_id)
+product_id = import_data(polbuty_meskie_urls, 'Męskie@Półbuty', product_id)
+product_id = import_data(sportowe_meskie_urls, 'Męskie@Sportowe', product_id)
+product_id = import_data(lacze_meskie_urls, 'Męskie@Klapki', product_id)
+product_id = import_data(polbuty_damskie_urls, 'Damskie@Półbuty', product_id)
+product_id = import_data(sportowe_damskie_urls, 'Damskie@Sportowe', product_id)
+product_id = import_data(lacze_damskie_urls, 'Damskie@Klapki', product_id)
 
 
 products_file.close()
