@@ -1,0 +1,9 @@
+ID,Nazwa,Kategoria nadrzędna,Główna kategoria (0/1)
+1,Męskie,,1
+2,Damskie,,1
+3,Półbuty męskie,Męskie,0
+4,Sportowe męskie,Męskie,0
+5,Klapki i sandały męskie,Męskie,0
+6,Półbuty damskie,Damskie,0
+7,Sportowe damskie,Damskie,0
+8,Klapki i sandały damskie,Damskie,0
