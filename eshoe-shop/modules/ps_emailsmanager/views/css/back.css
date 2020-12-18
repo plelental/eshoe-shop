@@ -1,0 +1,13 @@
+.emailsmanager-help {
+    padding-left: 100px;
+}
+
+.emailsmanager-help img {
+    position: absolute;
+    left: 25px;
+    top: 50px;
+}
+
+.bootstrap .theme-container {
+    margin-bottom: 5px;
+}
