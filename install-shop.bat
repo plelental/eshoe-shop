@@ -1,4 +1,4 @@
-@echo Launching mysql and prestashop containers
+ @echo Launching mysql and prestashop containers
 
 @start cmd /k docker-compose up
 
