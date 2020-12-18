@@ -1,0 +1,26 @@
+.select_theme {
+    border-color: #EBEDF4;
+    cursor: initial;
+}
+
+.select_theme.select_theme_choice {
+    border:  1px dotted #000000;
+}
+
+.select_theme > img {
+    width: 180px;
+    padding: 0;
+}
+
+#available_templates .button {
+    display: inline-block;
+    margin: 5px 0;
+}
+
+fieldset {
+    position: relative;
+}
+
+.emailsmanager-help img {
+    top: 42px !important;
+}
