@@ -29,3 +29,7 @@ eshoe-shop/modules/*/config*.xml
 # The following folders contain product images, virtual products, CSV's, etc.
 eshoe-shop/upload/
 
+# Dotnet bin and obj
+selenium/bin/*
+selenium/obj/*
+selenium/.idea/*

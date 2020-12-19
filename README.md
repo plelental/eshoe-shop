@@ -50,3 +50,16 @@ docker exec eshoe-shop_some-mysql_1 /usr/bin/mysqldump -u root --password=admin 
 ```
 docker exec -i eshoe-shop_some-mysql_1 mysql -uroot -padmin prestashop < ./db/dbdump.sql
 ```
+
+## Run automated tests
+1. Download and install .NET 5
+2. Make sure that you have running eShoe shop containers
+3. By default automated tests will run on firefox, if you don't have this web browser, uncommented chrome lines at the constructor in `AutomatedTests.cs` and comment lines for firefox
+4. Build tests
+```
+dotnet build
+``` 
+5. Run tests
+```
+dotnet tests
+```
