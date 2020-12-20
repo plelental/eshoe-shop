@@ -61,5 +61,5 @@ dotnet build
 ``` 
 5. Run tests
 ```
-dotnet tests
+dotnet test
 ```
