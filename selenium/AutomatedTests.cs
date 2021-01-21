@@ -37,7 +37,7 @@ namespace Selenium
         public void TestShopProcess()
         {
             //Setting up and open the page
-            Driver.Navigate().GoToUrl("https://18.222.194.191/");
+            Driver.Navigate().GoToUrl("https://3.139.163.187/");
             Driver.Manage().Window.Maximize();
 
             //Add products to the cart
