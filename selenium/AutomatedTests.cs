@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Threading;
+using System.Threading.Tasks;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Interactions;
@@ -9,12 +12,16 @@ namespace Selenium
     public class AutomatedTests : IDisposable
     {
         private IWebDriver Driver { get; }
-
+        public IDictionary<String, Object> vars {get; private set;}
+        public IJavaScriptExecutor js {get; private set;}
+        
         public AutomatedTests()
         {
             var fireFoxOptions = new FirefoxOptions {AcceptInsecureCertificates = true};
             Driver = new FirefoxDriver(fireFoxOptions);
-
+            js = (IJavaScriptExecutor)Driver;
+            vars = new Dictionary<String, Object>();
+            
             // If you want run automated test by chrome uncomment these lines and add required import
             
             // var chromeOptions = new ChromeOptions { AcceptInsecureCertificates = true};
@@ -30,19 +37,14 @@ namespace Selenium
         public void TestShopProcess()
         {
             //Setting up and open the page
-            Driver.Navigate().GoToUrl("https://localhost/");
-            Driver.Manage().Window.Size = new System.Drawing.Size(1440, 699);
+            Driver.Navigate().GoToUrl("https://3.139.163.187/");
+            Driver.Manage().Window.Maximize();
 
             //Add products to the cart
             Driver.FindElement(By.CssSelector("#category-13 > .dropdown-item")).Click();
             Driver.FindElement(By.CssSelector(".product-miniature:nth-child(1) img")).Click();
             Driver.FindElement(By.CssSelector(".touchspin-up")).Click();
             Driver.FindElement(By.CssSelector(".add-to-cart")).Click();
-
-            var popupElement = Driver.FindElement(By.CssSelector(".btn-primary > .material-icons"));
-            var popupElementBuilder = new Actions(Driver);
-            popupElementBuilder.MoveToElement(popupElement).Perform();
-
             Driver.FindElement(By.CssSelector(".btn.btn-primary.add-to-cart")).Click();
             Driver.FindElement(By.CssSelector("li:nth-child(2) > a > span")).Click();
             Driver.FindElement(By.CssSelector(".product-miniature:nth-child(2) img")).Click();
@@ -60,11 +62,6 @@ namespace Selenium
             Driver.FindElement(By.CssSelector("li:nth-child(2) > a > span")).Click();
             Driver.FindElement(By.CssSelector(".product-miniature:nth-child(5) img")).Click();
             Driver.FindElement(By.CssSelector(".add-to-cart")).Click();
-
-            var addToCartElement = Driver.FindElement(By.CssSelector(".add-to-cart"));
-            var addToCartBuilder = new Actions(Driver);
-            addToCartBuilder.MoveToElement(addToCartElement).Perform();
-
             Driver.FindElement(By.CssSelector(".btn.btn-primary.add-to-cart")).Click();
             Driver.FindElement(By.CssSelector("li:nth-child(2) > a > span")).Click();
             Driver.FindElement(By.CssSelector(".product-miniature:nth-child(6) img")).Click();
@@ -127,6 +124,7 @@ namespace Selenium
             Driver.FindElement(By.CssSelector(".ps-shown-by-js > .btn")).Click();
 
             //Go to profile and check details of the ortder
+            Thread.Sleep(2000);
             Driver.FindElement(By.CssSelector(".account > .hidden-sm-down")).Click();
             Driver.FindElement(By.CssSelector("#history-link .material-icons")).Click();
             Driver.FindElement(By.LinkText("Szczegóły")).Click();
